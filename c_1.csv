@@ -1,0 +1,1001 @@
+Employee_id,Department,Department_Name,Division,Gender,Base_Salary,2021_Overtime_Pay,2021_Longevity_Pay,Post_Code,Position,Race,Bonus_Level,Length_of_Service,Education,other_bonus,base_bonus
+1,LIB,Department of Public Libraries,Chevy Chase Library,F,103495.36,0.0,0.0,90001,Manager,Native American,2,1,Ph.D,0.0,1242.3542771853845
+2,POL,Department of Police,MSB Communications Division,F,80355.77,5501.59,0.0,95113,Assistant,Hispanic,1,8,High School,1925.5565,29937.70113489841
+3,HCA,Department of Housing and Community Affairs,Housing Code Enforcement,M,146923.0,0.0,0.0,95113,Senior,Other,1,7,Ph.D,0.0,-32.96794059444101
+4,HHS,Department of Health and Human Services,Public Health Services Division,F,87969.0,0.0,5318.56,10001,Junior,Pacific Islander,4,1,Master,1329.64,21057.13561229009
+5,HHS,Department of Health and Human Services,Chief Operating Officer Division,F,111407.0,0.0,2213.12,85001,Assistant,Asian,4,10,High School,553.28,9487.5350908543
+6,HHS,Department of Health and Human Services,Public Health Services Division,F,102289.85,0.0,0.0,90001,Assistant,Hispanic,4,3,High School,0.0,1242.3542771853845
+7,FRS,Fire and Rescue Services,Station 30,M,87356.0,2963.23,0.0,85001,Junior,Hispanic,5,2,Ph.D,1037.1305,86593.33048822908
+8,FRS,Fire and Rescue Services,Station 25,M,68658.0,8664.6,0.0,92101,Assistant,Native American,2,4,Bachelor,3032.61,253265.7045776996
+9,DOT,Department of Transportation,DOT 50 Transit Silver Spring Ride On,M,68575.0,0.0,712.8,19102,Assistant,Black,4,10,Master,178.2,14851.182491792182
+10,POL,Department of Police,ISB Special Victims Investigations Division Child Abuse and Missing Children,F,77370.0,223.2,0.0,85001,Junior,White,3,10,Master,78.11999999999999,2406.5270742570574
+11,CAT,County Attorney's Office,"Zoning, Land Use and Economic Development",M,125155.27,0.0,0.0,10001,Assistant,Hispanic,5,10,Bachelor,0.0,-32.96794059444101
+12,COR,Correction and Rehabilitation,DS MCDC Custody and Security,M,52246.0,26540.07,0.0,85001,Senior,White,1,3,Master,9289.0245,775832.5653260999
+13,POL,Department of Police,Patrol Services Bureau,F,59082.0,497.35,0.0,77001,Junior,Hispanic,5,9,Bachelor,174.0725,3836.446305068883
+14,DPS,Department of Permitting Services,Land Development Sediment and Stormwater Inspection,M,111407.0,0.0,0.0,92101,Manager,Pacific Islander,1,7,High School,0.0,-32.96794059444101
+15,FRS,Fire and Rescue Services,Station 31,M,68658.0,17621.91,0.0,90001,Junior,Hispanic,1,3,High School,6167.6685,515121.38543253887
+16,HHS,Department of Health and Human Services,Child Welfare Services,F,29213.0,0.0,0.0,75201,Senior,Black,1,8,Bachelor,0.0,1242.3542771853845
+17,LIB,Department of Public Libraries,Gaithersburg Library,M,87969.0,0.0,1747.2,77001,Junior,Asian,3,4,Master,436.8,36450.74086337008
+18,DEP,Department of Environmental Protection,Resource Conversion,F,63425.0,3819.3,0.0,85001,Senior,Native American,4,3,Master,1336.755,21163.165943206182
+19,DOT,Department of Transportation,Highway Services,M,53424.76,10627.93,0.0,19102,Manager,Pacific Islander,2,7,Master,3719.7755,310661.1853518083
+20,FRS,Fire and Rescue Services,Station 33,M,119197.0,36158.64,2877.9,60601,Manager,Black,1,1,Ph.D,13374.999,1117113.4807071085
+21,OMB,Office of Management and Budget,County Stat,M,169722.28,0.0,0.0,95113,Junior,Pacific Islander,1,2,Ph.D,0.0,-32.96794059444101
+22,DOT,Department of Transportation,DOT 50 Highway Services,M,48569.11,8568.06,0.0,19102,Senior,Black,2,9,Ph.D,2998.8209999999995,250443.47921877747
+23,DOT,Department of Transportation,Highway Services,M,80086.0,11753.1,1591.2,19102,Assistant,White,4,5,Master,4511.385,376780.3485488137
+24,HHS,Department of Health and Human Services,Behavioral Health and Crisis Services Division,F,100485.0,1811.69,0.0,92101,Senior,Hispanic,4,7,Ph.D,634.0915,10691.817604814329
+25,FRS,Fire and Rescue Services,Station 26,M,68658.0,11298.53,0.0,85001,Junior,White,2,1,High School,3954.4855,330265.3320857335
+26,OLR,Office of Labor Relations,Labor Relations Division,M,141144.02,0.0,0.0,78201,Manager,Other,1,2,High School,0.0,-32.96794059444101
+27,HHS,Department of Health and Human Services,Behavioral Health and Crisis Services Division,F,127756.46,0.0,0.0,77001,Senior,White,4,9,Ph.D,0.0,1242.3542771853845
+28,FRS,Fire and Rescue Services,Field Recruits,M,48942.0,117.67,0.0,19102,Assistant,Other,3,5,Bachelor,41.1845,3406.9663662665403
+29,POL,Department of Police,PSB 3rd District Patrol,F,64209.0,0.0,0.0,77001,Assistant,Native American,5,8,Master,0.0,1242.3542771853845
+30,CEC,Community Engagement Cluster,CEC 16 Regional Services Centers,F,163618.0,0.0,0.0,85001,Assistant,Other,3,1,Bachelor,0.0,1242.3542771853845
+31,POL,Department of Police,PSB 5th District Patrol,M,59939.0,2812.0,0.0,75201,Assistant,White,4,1,Bachelor,984.2,82172.31183244099
+32,HHS,Department of Health and Human Services,Office of Community Affairs Division,F,65037.82,0.0,0.0,75201,Junior,Pacific Islander,3,5,High School,0.0,1242.3542771853845
+33,DOT,Department of Transportation,Transit Gaithersburg Ride On,M,45634.8,7223.9,0.0,78201,Junior,White,3,7,Master,2528.365,211148.65387748188
+34,HCA,Department of Housing and Community Affairs,Housing Code Enforcement,M,92211.0,0.0,3623.44,95113,Junior,Asian,5,10,Ph.D,905.86,75628.9653404479
+35,POL,Department of Police,PSB 3rd District Community Operations,F,95112.0,2645.18,6724.51,90001,Manager,Asian,2,1,High School,2606.9405,40091.93458548579
+36,HHS,Department of Health and Human Services,Child Welfare Services,F,85377.92,0.0,0.0,19102,Manager,Pacific Islander,5,8,High School,0.0,1242.3542771853845
+37,DGS,Department of General Services,Property Management,M,106250.0,46483.42,0.0,10001,Senior,Hispanic,2,2,Bachelor,16269.196999999998,1358851.2944731717
+38,ABS,Alcohol Beverage Services,Retail Administration,M,108656.27,0.0,1484.8,60601,Manager,Asian,5,4,Master,371.2,30971.502544825955
+39,DOT,Department of Transportation,Transit Nicholson Ride On,M,52734.0,4685.98,0.0,78201,Assistant,Asian,2,4,Master,1640.0929999999998,136955.75784562482
+40,POL,Department of Police,PSB 2nd District Patrol,F,80077.0,0.0,0.0,92101,Assistant,Native American,3,2,Ph.D,0.0,1242.3542771853845
+41,DPS,Department of Permitting Services,Residential Inspections,M,70596.6,0.0,0.0,90001,Senior,Hispanic,4,2,Master,0.0,-32.96794059444101
+42,HHS,Department of Health and Human Services,Services to End and Prevent Homelessness Division,F,77127.8,0.0,0.0,19102,Manager,Native American,5,5,Bachelor,0.0,1242.3542771853845
+43,ABS,Alcohol Beverage Services,Darnestown,M,52772.94,164.04,0.0,10001,Manager,Other,1,1,Bachelor,57.414,4762.534937772819
+44,POL,Department of Police,PSB 5th District Patrol,F,99865.0,18.64,3469.57,92101,Assistant,Asian,3,1,High School,873.9165,14265.777423781485
+45,HHS,Department of Health and Human Services,Aging & Disability Services Division,F,104287.33,10923.15,0.0,77001,Senior,Pacific Islander,5,5,High School,3823.1025,58215.62528226357
+46,ABS,Alcohol Beverage Services,Liquor and Wine Delivery Operations,M,48205.13,0.0,0.0,19102,Assistant,Black,2,1,Master,0.0,-32.96794059444101
+47,POL,Department of Police,MSB Communications Division,M,57149.89,6387.68,0.0,95113,Assistant,Asian,4,5,High School,2235.688,186702.814954364
+48,ABS,Alcohol Beverage Services,White Oak,M,39248.69,210.79,0.0,90001,Senior,Black,4,8,Ph.D,73.7765,6129.212330870047
+49,COR,Correction and Rehabilitation,DS MCDC Central Processing Unit,F,83628.0,4841.72,0.0,19102,Manager,Black,4,7,High School,1694.602,26495.932749577245
+50,ABS,Alcohol Beverage Services,Liquor and Wine Delivery Operations,M,36050.09,552.7,0.0,95113,Manager,Pacific Islander,1,10,Bachelor,193.445,16124.520726033114
+51,HHS,Department of Health and Human Services,Aging & Disability Services Division,F,22202.0,0.0,0.0,19102,Senior,Pacific Islander,2,4,High School,0.0,1242.3542771853845
+52,DOT,Department of Transportation,Transportation Management,M,80926.65,14299.23,0.0,77001,Senior,White,1,1,Ph.D,5004.7305,417987.0187909068
+53,REC,Department of Recreation,Facilities Division,F,75208.56,0.0,0.0,60601,Junior,White,2,10,Master,0.0,1242.3542771853845
+54,LIB,Department of Public Libraries,Public Service Administration,F,91469.07,0.0,0.0,60601,Junior,Pacific Islander,1,8,Ph.D,0.0,1242.3542771853845
+55,CAT,County Attorney's Office,CAT 30 Human Resources and Appeals,F,150527.0,0.0,0.0,92101,Senior,Black,3,9,High School,0.0,1242.3542771853845
+56,HHS,Department of Health and Human Services,Behavioral Health and Crisis Services Division,M,76216.28,0.0,0.0,60601,Senior,Asian,2,4,High School,0.0,-32.96794059444101
+57,LIB,Department of Public Libraries,Long Branch Library,M,87969.0,0.0,1747.2,90001,Assistant,Black,3,8,High School,436.8,36450.74086337008
+58,DOT,Department of Transportation,DOT 50 Traffic Engineering Studies Section,M,97203.6,0.0,0.0,78201,Senior,Other,1,8,High School,0.0,-32.96794059444101
+59,POL,Department of Police,ISB Major Crimes Division Fugitive Section,M,95112.0,7954.65,6724.51,78201,Assistant,Black,4,9,High School,4465.254999999999,372927.3414812154
+60,POL,Department of Police,PSB 5th District Patrol,M,82882.0,0.0,0.0,75201,Manager,White,3,9,High School,0.0,-32.96794059444101
+61,HHS,Department of Health and Human Services,School Health Services,F,51619.12,4216.23,0.0,85001,Assistant,White,1,10,High School,1475.6804999999997,23233.484528966303
+62,FIN,Department of Finance,General Accounting,F,111407.0,0.0,1537.28,92101,Assistant,Hispanic,2,6,Ph.D,384.32,6969.63140686518
+63,PRO,Office of Procurement,Procurement Operations Section,M,91177.91,0.0,2495.2,75201,Manager,Hispanic,5,9,Master,623.8,52069.91107019554
+64,PRO,Office of Procurement,Procurement Division,F,115635.68,0.0,0.0,85001,Assistant,White,5,8,Bachelor,0.0,1242.3542771853845
+65,HHS,Department of Health and Human Services,School Health Services,F,63425.0,2378.87,1889.68,60601,Manager,White,5,10,Ph.D,1305.0245,20690.30643299776
+66,LIB,Department of Public Libraries,Wheaton Library,F,20498.14,0.0,0.0,92101,Senior,White,1,5,Master,0.0,1242.3542771853845
+67,HHS,Department of Health and Human Services,Office of Eligibility and Support Services,M,52041.37,717.15,0.0,78201,Manager,Pacific Islander,5,6,Ph.D,251.0025,20932.00943822219
+68,HHS,Department of Health and Human Services,Children Youth and Family Services Division,F,86697.89,0.0,0.0,92101,Manager,Native American,2,1,Master,0.0,1242.3542771853845
+69,POL,Department of Police,FSB Traffic Division,M,95112.0,9064.73,6724.51,60601,Manager,Native American,1,10,Ph.D,4853.782999999999,405379.1327224855
+70,HHS,Department of Health and Human Services,HHS 60 Behavioral Health and Crisis Services Division,F,71249.89,0.0,0.0,92101,Junior,Asian,3,1,Bachelor,0.0,1242.3542771853845
+71,POL,Department of Police,MSB Training and Education Division,F,80086.0,0.0,0.0,75201,Senior,Hispanic,5,4,Master,0.0,1242.3542771853845
+72,DHS,Office of Emergency Management and Homeland Security,Policy and Planning,M,116825.0,0.0,0.0,75201,Manager,Pacific Islander,2,8,Master,0.0,-32.96794059444101
+73,DOT,Department of Transportation,Transit Gaithersburg Ride On,F,55655.85,7110.46,0.0,75201,Manager,White,5,5,Master,2488.661,38329.29023895175
+74,HHS,Department of Health and Human Services,Children Youth and Family Services Division,F,92211.0,0.0,0.0,75201,Junior,Hispanic,3,1,Master,0.0,1242.3542771853845
+75,FRS,Fire and Rescue Services,Station 32,F,58975.0,567.08,0.0,75201,Junior,Other,1,2,Bachelor,198.478,4200.145987594903
+76,COR,Correction and Rehabilitation,MSD Human Resources,F,125237.58,0.0,0.0,19102,Senior,Pacific Islander,1,8,Bachelor,0.0,1242.3542771853845
+77,POL,Department of Police,FSB Security Services Division,M,73439.0,16328.47,0.0,19102,Assistant,White,2,5,High School,5714.964499999999,477309.2954362248
+78,FRS,Fire and Rescue Services,Station 30,M,55052.0,26890.9,0.0,60601,Manager,White,3,5,Ph.D,9411.815,786088.6386912401
+79,POL,Department of Police,PSB 5th District Patrol,M,91894.0,5311.05,0.0,19102,Senior,Black,5,7,Master,1858.8675,155228.89235050793
+80,HHS,Department of Health and Human Services,Aging & Disability Services Division,F,71500.19,0.0,0.0,92101,Assistant,Pacific Islander,3,5,High School,0.0,1242.3542771853845
+81,POL,Department of Police,PSB 1st District Patrol,M,95112.0,212.98,3304.47,10001,Assistant,White,3,8,High School,900.6605,75194.67723622122
+82,HHS,Department of Health and Human Services,Public Health Services Division,F,97000.0,0.0,0.0,90001,Junior,Pacific Islander,3,3,High School,0.0,1242.3542771853845
+83,POL,Department of Police,POL 47 FSB Traffic Division Automated Traffic Enforcement Section,M,124306.6,0.0,0.0,92101,Senior,Native American,3,10,Master,0.0,-32.96794059444101
+84,FRS,Fire and Rescue Services,Station 6,M,87356.0,17646.4,0.0,60601,Junior,Native American,2,10,Master,6176.24,515837.3197503346
+85,FRS,Fire and Rescue Services,FRS 45 Fleet Support,M,101350.0,4442.48,4780.21,10001,Junior,Pacific Islander,5,9,Ph.D,2749.9205,229654.07133608256
+86,DGS,Department of General Services,Fleet Automotive Heavy Equipment,M,83931.0,0.0,0.0,90001,Senior,Hispanic,5,8,High School,0.0,-32.96794059444101
+87,POL,Department of Police,MSB Training and Education Division,M,109849.0,6658.4,7766.33,75201,Senior,Native American,5,1,Ph.D,4272.022499999999,356787.6018716411
+88,FRS,Fire and Rescue Services,Station 1,M,71062.0,555.19,0.0,77001,Assistant,Pacific Islander,1,2,Master,194.3165,16197.31274119487
+89,FRS,Fire and Rescue Services,Station 23,M,105707.0,35063.89,1098.32,78201,Senior,Asian,1,4,Ph.D,12546.9415,1047949.9992443364
+90,DGS,Department of General Services,Fleet Automotive Heavy Equipment,M,83931.0,20419.88,4288.64,77001,Manager,Other,1,4,Master,8219.118,686468.6523373892
+91,POL,Department of Police,PSB 3rd District Patrol,M,55154.0,2206.55,0.0,75201,Senior,Native American,5,8,Bachelor,772.2925,64472.74332654331
+92,POL,Department of Police,ISB Major Crimes Division Cold Case Section,M,109849.0,3007.59,7766.33,10001,Manager,Asian,4,8,High School,2994.239,250060.76778622312
+93,PIO,Office of Public Information,MC311,F,72930.0,755.81,1508.88,90001,Junior,Asian,3,8,Ph.D,641.7535,10805.99952968841
+94,HHS,Department of Health and Human Services,Children Youth and Family Services Division,M,27864.81,0.0,0.0,78201,Manager,Other,2,8,Ph.D,0.0,-32.96794059444101
+95,FIN,Department of Finance,Accounts Receivable,F,146923.0,0.0,0.0,75201,Junior,Native American,3,9,Ph.D,0.0,1242.3542771853845
+96,FRS,Fire and Rescue Services,Station 25,M,119197.0,219325.63,4680.0,92101,Junior,Asian,3,2,High School,77933.9705,6509399.92047232
+97,OAG,Office of Agriculture,Agricultural Services,M,76289.35,0.0,0.0,85001,Assistant,Black,3,3,High School,0.0,-32.96794059444101
+98,POL,Department of Police,MSB Communications Division,F,78399.05,7401.67,0.0,85001,Junior,Asian,2,2,Ph.D,2590.5845,39848.19149448598
+99,POL,Department of Police,MSB Information Mgmt and Tech Division Telephone Reporting Section,F,57679.55,9795.86,0.0,75201,Assistant,Native American,2,6,Bachelor,3428.551,52335.87459941892
+100,DOT,Department of Transportation,Transit Gaithersburg Ride On,M,69604.0,3413.74,1336.16,92101,Junior,Native American,4,8,High School,1528.8489999999997,127664.10559702538
+101,REC,Department of Recreation,Youth Development Youth Services,F,70872.68,0.0,0.0,10001,Senior,Hispanic,2,1,Ph.D,0.0,1242.3542771853845
+102,DOT,Department of Transportation,Transportation Planning and Design Section,F,111407.0,0.0,6735.04,78201,Assistant,Asian,3,9,Master,1683.76,26334.36130224172
+103,COR,Correction and Rehabilitation,DS Health Services,M,96731.83,32.08,0.0,77001,Junior,Black,1,6,Bachelor,11.227999999999998,904.8504716100314
+104,HHS,Department of Health and Human Services,Children Youth and Family Services Division,M,27864.81,0.0,0.0,90001,Assistant,Asian,5,1,Ph.D,0.0,-32.96794059444101
+105,HHS,Department of Health and Human Services,School Health Services,F,41317.8,47.78,0.0,10001,Senior,White,1,7,Ph.D,16.723,1491.5665363434691
+106,POL,Department of Police,MSB Personnel Division,F,146923.0,0.0,0.0,85001,Manager,Asian,4,2,Master,0.0,1242.3542771853845
+107,HHS,Department of Health and Human Services,School Health Services,F,60903.5,0.0,3123.46,10001,Manager,Pacific Islander,4,10,Bachelor,780.865,12879.08995544156
+108,POL,Department of Police,POL 47 PSB 2nd District Patrol,M,75136.0,1968.78,0.0,78201,Junior,Other,3,3,High School,689.073,57521.83672212131
+109,POL,Department of Police,PSB 1st District Patrol,M,95112.0,11466.16,6724.51,10001,Senior,Native American,2,10,Master,5694.2835,475581.9154413192
+110,DGS,Department of General Services,Fleet Automotive Heavy Equipment,F,82739.26,0.0,0.0,10001,Junior,Hispanic,4,1,Bachelor,0.0,1242.3542771853845
+111,HHS,Department of Health and Human Services,Public Health Services Division,F,103579.65,0.0,0.0,90001,Manager,Pacific Islander,5,4,Master,0.0,1242.3542771853845
+112,POL,Department of Police,ISB Criminal Investigations Division Forensic Services Section,F,92211.0,11189.8,1907.6,78201,Junior,Other,3,2,Ph.D,4393.329999999999,66713.36393615742
+113,DPS,Department of Permitting Services,Fire Code Compliance,M,101350.0,4531.57,0.0,85001,Senior,Native American,5,5,Master,1586.0495,132441.7758933651
+114,DOT,Department of Transportation,Highway Services,M,106173.89,44412.12,0.0,78201,Manager,Pacific Islander,3,6,Ph.D,15544.242,1298299.4466801817
+115,OHR,Office of Human Resources,Recruitment and Selection Division,M,111407.0,0.0,0.0,90001,Junior,White,4,5,Bachelor,0.0,-32.96794059444101
+116,DOT,Department of Transportation,Highway Administration,M,90394.37,0.0,0.0,77001,Senior,Hispanic,5,7,Bachelor,0.0,-32.96794059444101
+117,CEC,Community Engagement Cluster,Community Partnerships,F,115557.76,0.0,0.0,90001,Manager,Asian,3,8,Ph.D,0.0,1242.3542771853845
+118,ABS,Alcohol Beverage Services,Burtonsville,M,38380.34,220.68,0.0,75201,Manager,Native American,5,3,Ph.D,77.238,6418.334029645054
+119,CAT,County Attorney's Office,Support Services,F,57510.44,3260.67,0.0,85001,Assistant,Asian,2,5,Master,1141.2345,18249.44797892236
+120,HCA,Department of Housing and Community Affairs,Management Services,F,75420.83,0.0,0.0,78201,Manager,Black,5,9,Bachelor,0.0,1242.3542771853845
+121,HHS,Department of Health and Human Services,Public Health Services Division,F,79689.68,0.0,0.0,78201,Manager,Native American,1,10,Master,0.0,1242.3542771853845
+122,DGS,Department of General Services,DGS 36 Central Duplicating,M,52228.87,0.0,0.0,85001,Junior,Black,1,9,Ph.D,0.0,-32.96794059444101
+123,HHS,Department of Health and Human Services,Child Welfare Services,M,101350.0,0.0,6127.68,77001,Assistant,Pacific Islander,3,10,High School,1531.92,127920.6107933097
+124,COR,Correction and Rehabilitation,DS Inmate Records,F,76419.0,15399.92,2276.56,60601,Assistant,White,3,1,High School,5959.112,90047.21967789423
+125,DGS,Department of General Services,Building Design and Construction,F,100000.0,0.0,0.0,77001,Senior,Asian,3,1,Bachelor,0.0,1242.3542771853845
+126,POL,Department of Police,PSB 2nd District Patrol,M,95112.0,1392.8,6724.51,60601,Assistant,Asian,4,5,High School,2168.6075,181099.917911268
+127,POL,Department of Police,FSB Traffic Division School Safety Section,F,23451.83,0.0,0.0,90001,Senior,Other,4,1,Master,0.0,1242.3542771853845
+128,REC,Department of Recreation,REC 72 Business Services,M,50029.09,0.0,0.0,77001,Assistant,Native American,5,4,High School,0.0,-32.96794059444101
+129,POL,Department of Police,POL 47 MSB Training and Education Division,M,59082.0,0.0,0.0,95113,Manager,White,3,6,Ph.D,0.0,-32.96794059444101
+130,HHS,Department of Health and Human Services,Child Welfare Services,F,106250.0,0.0,0.0,60601,Assistant,Black,4,1,Ph.D,0.0,1242.3542771853845
+131,POL,Department of Police,FSB Traffic Division Automated Traffic Enforcement Section,M,58367.26,63.14,0.0,60601,Junior,Pacific Islander,3,10,Bachelor,22.099,1812.85046796511
+132,DPS,Department of Permitting Services,Land Development Right-of-Way Plan Review,M,116825.0,0.0,0.0,77001,Senior,White,5,6,High School,0.0,-32.96794059444101
+133,TBS,Department of Technology and Enterprise Business Solutions,ODT Geographic Information System,M,128483.0,0.0,1772.64,10001,Junior,Native American,5,3,Master,443.16,36981.95970035088
+134,FRS,Fire and Rescue Services,Second Battalion - Administration,M,102133.0,0.0,0.0,75201,Junior,White,4,7,Ph.D,0.0,-32.96794059444101
+135,POL,Department of Police,HQ Office of the Chief,M,84082.0,5016.18,0.0,19102,Senior,Asian,1,10,Master,1755.663,146608.73913334042
+136,POL,Department of Police,MSB Personnel Division,M,157589.44,1239.69,0.0,60601,Manager,Black,3,1,High School,433.8915,36207.8084754206
+137,POL,Department of Police,ISB Criminal Investigations Division 6th District Investigative Section,M,95112.0,5496.66,3304.47,90001,Manager,Hispanic,3,10,Bachelor,2749.9485,229656.41003536485
+138,FRS,Fire and Rescue Services,Emergency Communications Center (ECC),M,96088.0,94327.13,3303.21,19102,Senior,Hispanic,4,10,High School,33840.297999999995,2826477.0551166004
+139,FRS,Fire and Rescue Services,Station 29,M,71062.0,0.0,0.0,77001,Senior,Hispanic,3,6,Bachelor,0.0,-32.96794059444101
+140,HHS,Department of Health and Human Services,Children Youth and Family Services Division,F,76398.18,0.0,0.0,95113,Senior,Other,3,9,Master,0.0,1242.3542771853845
+141,TBS,Department of Technology and Enterprise Business Solutions,ODT Payroll/Comp/BI,F,146923.0,0.0,0.0,19102,Senior,White,5,4,Ph.D,0.0,1242.3542771853845
+142,DOT,Department of Transportation,Transit Gaithersburg Ride On,M,52367.1,26639.2,0.0,95113,Senior,Asian,2,6,High School,9323.72,778730.5060742866
+143,OIG,Office of the Inspector General,Office of the Inspector General,M,137025.0,0.0,0.0,75201,Senior,White,3,8,Master,0.0,-32.96794059444101
+144,HHS,Department of Health and Human Services,Services to End and Prevent Homelessness Division,F,90801.46,0.0,0.0,90001,Manager,Asian,1,3,Bachelor,0.0,1242.3542771853845
+145,POL,Department of Police,FSB Special Operations Division,M,145117.28,3284.21,0.0,19102,Assistant,Hispanic,4,1,Bachelor,1149.4734999999998,95976.776683659
+146,FRS,Fire and Rescue Services,Station 3,M,68658.0,19571.32,0.0,19102,Manager,Black,2,7,High School,6849.962,572109.9325315264
+147,FRS,Fire and Rescue Services,Station 13,M,96088.0,1615.94,3339.7,75201,Assistant,Hispanic,3,3,Master,1400.504,116944.09276175791
+148,FIN,Department of Finance,Accounts Payable,F,59123.75,0.0,0.0,19102,Assistant,Native American,4,7,Bachelor,0.0,1242.3542771853845
+149,POL,Department of Police,ISB Major Crimes Division Cold Case Section,F,95112.0,146.96,6724.51,77001,Junior,Black,1,1,High School,1732.5635,27061.648899552107
+150,POL,Department of Police,Patrol Services Bureau,M,95112.0,0.0,2295.27,19102,Senior,Other,1,3,High School,573.8175,47895.12403884446
+151,POL,Department of Police,MSB Management and Budget Division,F,88407.66,0.0,0.0,78201,Assistant,Other,3,1,Ph.D,0.0,1242.3542771853845
+152,ABS,Alcohol Beverage Services,Poolesville,M,38380.32,348.19,0.0,10001,Senior,Asian,4,1,Bachelor,121.8665,10145.9283482296
+153,FRS,Fire and Rescue Services,Station 31,M,78788.0,9531.71,0.0,95113,Manager,Asian,3,9,High School,3336.0985,278614.57376119774
+154,COR,Correction and Rehabilitation,DS Health Services,F,106250.0,84732.4,0.0,10001,Senior,Black,1,9,Bachelor,29656.34,443191.97394831385
+155,FRS,Fire and Rescue Services,Station 26,M,67677.0,1959.84,0.0,75201,Senior,Asian,2,4,Bachelor,685.944,57260.48707732368
+156,LIB,Department of Public Libraries,Collection Development,F,45808.8,0.0,0.0,75201,Junior,Hispanic,1,8,Ph.D,0.0,1242.3542771853845
+157,CAT,County Attorney's Office,"Zoning, Land Use and Economic Development",M,152785.0,0.0,3034.72,77001,Manager,Hispanic,3,4,Bachelor,758.68,63335.75961295821
+158,HHS,Department of Health and Human Services,Child Welfare Services,F,116825.0,0.0,0.0,77001,Manager,Black,4,3,Master,0.0,1242.3542771853845
+159,HHS,Department of Health and Human Services,Chief Operating Officer Division,M,165192.82,0.0,0.0,10001,Junior,Hispanic,2,10,Bachelor,0.0,-32.96794059444101
+160,COR,Correction and Rehabilitation,DS MCCF Unit 2 Security,M,73123.0,36024.9,0.0,19102,Manager,Pacific Islander,3,1,Bachelor,12608.715,1053109.629248461
+161,DOT,Department of Transportation,Transit Silver Spring Ride On,M,61453.99,2966.5,0.0,90001,Manager,Other,3,3,Bachelor,1038.275,86688.92482139333
+162,HHS,Department of Health and Human Services,Aging & Disability Services Division,F,69082.31,0.0,0.0,10001,Junior,White,4,10,Master,0.0,1242.3542771853845
+163,DPS,Department of Permitting Services,Commercial Structural and Complex Structures,M,100000.0,0.0,0.0,90001,Manager,Hispanic,3,1,Ph.D,0.0,-32.96794059444101
+164,FRS,Fire and Rescue Services,Station 2,M,61040.0,18271.32,0.0,10001,Junior,Black,2,1,Bachelor,6394.962,534106.0691940634
+165,DOT,Department of Transportation,Transit Silver Spring Ride On,F,47231.4,0.0,0.0,90001,Senior,Pacific Islander,5,1,High School,0.0,1242.3542771853845
+166,HHS,Department of Health and Human Services,Children Youth and Family Services Division,F,47502.0,0.0,0.0,75201,Junior,White,1,6,High School,0.0,1242.3542771853845
+167,HHS,Department of Health and Human Services,Child Welfare Services,F,73933.77,0.0,0.0,19102,Senior,Native American,1,10,Bachelor,0.0,1242.3542771853845
+168,ABS,Alcohol Beverage Services,Downtown Rockville,M,66446.0,99.66,1980.22,10001,Junior,White,2,7,Bachelor,529.936,44229.92287611285
+169,POL,Department of Police,ISB Special Victims Investigations Division Child Abuse and Missing Children,M,80077.0,9235.26,0.0,78201,Assistant,Black,1,1,Ph.D,3232.341,269948.2312332047
+170,POL,Department of Police,PSB 5th District Patrol,M,57085.0,4349.36,0.0,95113,Assistant,Pacific Islander,3,7,Ph.D,1522.2759999999998,127115.0959405042
+171,POL,Department of Police,PSB 3rd District Patrol,M,57085.0,899.62,0.0,78201,Junior,Hispanic,5,7,High School,314.867,26266.29016375056
+172,FRS,Fire and Rescue Services,FRS 45 Training,M,111341.35,0.0,0.0,19102,Manager,Native American,3,7,Ph.D,0.0,-32.96794059444101
+173,ZAH,Office of Zoning and Administrative Hearings,Director,F,181930.63,0.0,0.0,60601,Junior,Black,4,8,Bachelor,0.0,1242.3542771853845
+174,PIO,Office of Public Information,Director's Office,F,80086.0,0.0,0.0,75201,Manager,Black,2,10,Master,0.0,1242.3542771853845
+175,FRS,Fire and Rescue Services,Station 26,M,96088.0,692.96,0.0,60601,Senior,Pacific Islander,4,4,Bachelor,242.536,20224.84524273509
+176,FRS,Fire and Rescue Services,Station 13,M,84401.0,23659.08,0.0,60601,Junior,Native American,1,9,High School,8280.678,691610.4497594864
+177,HHS,Department of Health and Human Services,HHS 60 Children Youth and Family Services Division,F,89279.4,0.0,0.0,19102,Senior,Hispanic,1,8,High School,0.0,1242.3542771853845
+178,FRS,Fire and Rescue Services,Field Recruits,M,48942.0,88.25,0.0,90001,Junior,Other,3,10,Bachelor,30.8875,2546.909705198723
+179,FRS,Fire and Rescue Services,Station 29,M,68658.0,21445.39,0.0,95113,Senior,Hispanic,5,5,Master,7505.8865,626896.0095814029
+180,POL,Department of Police,POL 47 PSB 5th District Patrol,M,95112.0,0.0,4672.6,19102,Assistant,Asian,5,6,High School,1168.15,97536.73086744393
+181,HHS,Department of Health and Human Services,Public Health Services Division,F,112000.0,0.0,0.0,95113,Senior,White,1,10,Ph.D,0.0,1242.3542771853845
+182,POL,Department of Police,POL 47 PSB 6th District Patrol,F,98389.0,513.14,2526.85,92101,Junior,Other,3,5,High School,811.3115,13332.814828278768
+183,HHS,Department of Health and Human Services,Public Health Services Division,F,60846.14,2.58,0.0,77001,Assistant,Pacific Islander,5,6,Bachelor,0.903,1255.8111132805675
+184,POL,Department of Police,FSB Traffic Division Collision Reconstruction,M,95112.0,11213.95,6724.51,75201,Junior,Asian,2,1,Bachelor,5606.01,468208.8736164412
+185,POL,Department of Police,ISB Criminal Investigations Division Forensic Services Section,F,57038.72,4845.97,0.0,85001,Manager,Native American,5,5,Ph.D,1696.0895,26518.10001833869
+186,LIB,Department of Public Libraries,Community Outreach,F,70764.33,0.0,0.0,78201,Manager,Hispanic,1,4,Bachelor,0.0,1242.3542771853845
+187,FRS,Fire and Rescue Services,Station 35,M,68658.0,3946.51,0.0,75201,Manager,Other,1,7,High School,1381.2785,115338.28336704498
+188,HHS,Department of Health and Human Services,School Health Services,F,106250.0,4099.34,0.0,92101,Junior,Other,1,2,Bachelor,1434.769,22623.8064006074
+189,HHS,Department of Health and Human Services,Services to End and Prevent Homelessness Division,F,101350.0,16566.45,6127.68,90001,Senior,Other,3,10,Master,7330.1775,110479.33895725256
+190,CEC,Community Engagement Cluster,Community Partnerships,F,50750.0,0.0,0.0,78201,Assistant,Hispanic,2,4,Ph.D,0.0,1242.3542771853845
+191,FRS,Fire and Rescue Services,Station 33,M,71062.0,141.69,0.0,90001,Senior,Asian,2,6,High School,49.5915,4109.160825778743
+192,POL,Department of Police,POL 47 PSB 5th District Patrol,M,95112.0,0.0,3565.22,75201,Senior,Pacific Islander,4,9,Bachelor,891.305,74413.25933852092
+193,DOT,Department of Transportation,DOT 50 Transportation System Engineering,F,80562.13,0.0,0.0,90001,Senior,Black,3,7,Bachelor,0.0,1242.3542771853845
+194,HHS,Department of Health and Human Services,Office of Eligibility and Support Services,F,87969.0,0.0,5318.56,95113,Assistant,Asian,2,10,Bachelor,1329.64,21057.13561229009
+195,CEC,Community Engagement Cluster,Community Partnerships,F,75500.0,0.0,0.0,85001,Assistant,White,4,7,High School,0.0,1242.3542771853845
+196,LIB,Department of Public Libraries,Kensington Park Library,M,92211.0,1066.24,1907.6,75201,Junior,Native American,4,6,High School,850.084,70970.27637009551
+197,HHS,Department of Health and Human Services,Office of Eligibility and Support Services,F,31712.5,0.0,0.0,75201,Junior,Asian,4,9,High School,0.0,1242.3542771853845
+198,HHS,Department of Health and Human Services,Public Health Services Division,M,71530.5,2207.29,0.0,92101,Junior,Asian,2,8,Master,772.5514999999999,64494.37629490462
+199,HHS,Department of Health and Human Services,Office of Eligibility and Support Services,M,48261.4,0.0,0.0,85001,Junior,White,2,10,Bachelor,0.0,-32.96794059444101
+200,POL,Department of Police,FSB Traffic Division School Safety Section,M,19986.48,0.0,0.0,75201,Senior,Asian,3,2,Bachelor,0.0,-32.96794059444101
+201,POL,Department of Police,POL 47 MSB Training and Education Division,F,53288.0,38.43,0.0,95113,Manager,Hispanic,4,10,Master,13.4505,1442.7985450682893
+202,DOT,Department of Transportation,Highway Services,M,66446.0,4931.0,4017.52,90001,Senior,White,2,5,Master,2730.23,228009.42282828843
+203,POL,Department of Police,MSB Communications Division,F,92211.0,1501.58,0.0,77001,Junior,Native American,5,3,Bachelor,525.553,9074.337201140956
+204,FRS,Fire and Rescue Services,Field Recruits,M,48942.0,397.11,0.0,78201,Manager,Pacific Islander,3,7,Ph.D,138.9885,11576.042959359364
+205,CAT,County Attorney's Office,Human Resources and Appeals,F,149030.06,0.0,0.0,95113,Manager,Black,4,6,Bachelor,0.0,1242.3542771853845
+206,DOT,Department of Transportation,Transit Silver Spring Ride On,F,50595.83,3634.59,0.0,90001,Assistant,Asian,2,9,Bachelor,1272.1065,20199.75036369405
+207,POL,Department of Police,PSB 2nd District Patrol,M,95112.0,0.0,6724.51,90001,Assistant,Asian,3,7,Ph.D,1681.1275,140383.1634063306
+208,FRS,Fire and Rescue Services,Station 6,M,96088.0,41683.49,3339.6,75201,Junior,Hispanic,1,10,Master,15424.121499999996,1288266.3849966037
+209,ABS,Alcohol Beverage Services,Wholesale Operations,M,92211.0,0.0,5574.4,95113,Assistant,Black,4,3,High School,1393.6,116367.43633872092
+210,FRS,Fire and Rescue Services,Station 23,F,96088.0,0.0,517.44,85001,Senior,Asian,5,5,Master,129.36,3170.124285239553
+211,FRS,Fire and Rescue Services,Station 24,M,61040.0,38643.21,0.0,85001,Junior,Black,3,9,Master,13525.1235,1129652.6257216248
+212,FRS,Fire and Rescue Services,Station 34,M,84401.0,16229.32,0.0,92101,Senior,Hispanic,3,4,Ph.D,5680.262,474410.7700132176
+213,POL,Department of Police,MSB Information Mgmt and Tech Division Records Management Section,M,72930.0,0.0,2172.56,85001,Manager,Asian,3,10,Bachelor,543.14,45332.78663766858
+214,FRS,Fire and Rescue Services,FRS 45 Station 14,M,119197.0,12785.93,4486.14,60601,Assistant,White,5,9,Master,5596.6105,467423.7806198686
+215,LIB,Department of Public Libraries,Aspen Hill Library,F,92211.0,0.0,5574.4,19102,Assistant,Pacific Islander,3,2,Bachelor,1393.6,22010.29091311836
+216,ABS,Alcohol Beverage Services,ABS 85 Leisure World,M,38380.34,0.0,0.0,77001,Junior,Native American,1,6,Ph.D,0.0,-32.96794059444101
+217,HHS,Department of Health and Human Services,Public Health Services Division,M,92211.0,0.0,5574.4,95113,Manager,Native American,2,5,Bachelor,1393.6,116367.43633872092
+218,COR,Correction and Rehabilitation,DS MCCF Unit 2 Security,F,86850.0,10525.14,0.0,60601,Senior,Asian,4,1,Bachelor,3683.799,56139.67360232407
+219,DOT,Department of Transportation,Transit Silver Spring Ride On,M,69604.0,12498.13,2028.67,78201,Junior,Other,4,3,Bachelor,4881.512999999999,407695.28026171145
+220,DGS,Department of General Services,Facilities Major Programs,M,128483.0,0.0,7767.76,77001,Senior,White,4,3,Ph.D,1941.94,162167.5207836978
+221,HHS,Department of Health and Human Services,School Health Services,F,49085.31,570.7,0.0,95113,Senior,Black,3,3,Ph.D,199.745,4219.027284751711
+222,COR,Correction and Rehabilitation,COR 42 DS MCDC Custody and Security,M,49757.0,1353.52,0.0,10001,Senior,Asian,2,9,Bachelor,473.732,39535.48521673092
+223,COR,Correction and Rehabilitation,DS MCCF Unit 2 Security,F,63721.0,10874.6,0.0,77001,Senior,Other,5,5,Master,3806.11,57962.39683558871
+224,FRS,Fire and Rescue Services,Station 40,M,119197.0,47452.15,4102.71,77001,Manager,Black,3,4,High School,17633.93,1472840.5833174046
+225,HHS,Department of Health and Human Services,HHS 60 School Health Services,F,81916.0,0.0,0.0,19102,Assistant,Hispanic,2,2,High School,0.0,1242.3542771853845
+226,DOT,Department of Transportation,Highway Services,M,36240.0,1921.16,0.0,19102,Junior,Black,3,4,Bachelor,672.406,56129.72597432901
+227,HHS,Department of Health and Human Services,Aging & Disability Services Division,F,86697.89,0.0,0.0,19102,Manager,Pacific Islander,1,2,Ph.D,0.0,1242.3542771853845
+228,DPS,Department of Permitting Services,Customer Support,F,83931.0,160.6,5070.61,78201,Junior,Asian,2,3,Bachelor,1323.8625,20971.03719530236
+229,HHS,Department of Health and Human Services,Public Health Services Division,F,72930.0,3269.38,0.0,10001,Senior,Black,1,9,Ph.D,1144.283,18294.877840313464
+230,POL,Department of Police,PSB 5th District Community Action Team,M,109849.0,8623.43,0.0,92101,Assistant,Other,3,2,Ph.D,3018.2005,252062.15145954315
+231,LIB,Department of Public Libraries,Kensington Park Library,F,85157.78,0.0,0.0,78201,Junior,Black,1,6,Ph.D,0.0,1242.3542771853845
+232,POL,Department of Police,FSB Special Operations Division Tactical Operations Section,M,95112.0,9174.23,2295.27,78201,Junior,Other,5,3,High School,3784.798,316092.1879976549
+233,HHS,Department of Health and Human Services,School Health Services,F,47425.51,0.0,0.0,85001,Junior,Native American,5,6,Bachelor,0.0,1242.3542771853845
+234,LIB,Department of Public Libraries,Davis Library,M,89671.34,0.0,0.0,90001,Junior,Asian,2,4,High School,0.0,-32.96794059444101
+235,REC,Department of Recreation,Programs Division,F,168715.45,0.0,0.0,10001,Manager,Hispanic,4,2,High School,0.0,1242.3542771853845
+236,DOT,Department of Transportation,Highway Services,M,66446.0,15632.62,1980.16,95113,Manager,Pacific Islander,2,3,Ph.D,5966.457,498315.2000524819
+237,ABS,Alcohol Beverage Services,Purchasing,M,109420.92,0.0,0.0,10001,Manager,Black,1,3,Ph.D,0.0,-32.96794059444101
+238,CEC,Community Engagement Cluster,Silver Spring Urban District,M,41369.05,8497.77,0.0,60601,Senior,White,5,6,Ph.D,2974.2195,248388.639561862
+239,CUS,Community Use of Public Facilities,Core Services Team,F,68148.12,196.59,0.0,85001,Junior,White,4,1,Bachelor,68.8065,2267.7338926706902
+240,FRS,Fire and Rescue Services,Station 19,M,96088.0,0.0,0.0,85001,Senior,White,1,5,Ph.D,0.0,-32.96794059444101
+241,HHS,Department of Health and Human Services,Public Health Services Division,F,106250.0,5193.16,0.0,78201,Assistant,Asian,5,2,Bachelor,1817.606,28328.983322170745
+242,ABS,Alcohol Beverage Services,ABS 85 Liquor and Wine Delivery Operations,M,45634.79,806.04,0.0,10001,Senior,Other,4,3,High School,282.114,23530.5966782738
+243,FRS,Fire and Rescue Services,Field Recruits,F,48942.0,0.0,0.0,92101,Manager,Asian,2,9,High School,0.0,1242.3542771853845
+244,POL,Department of Police,PSB 4th District Patrol,M,77370.0,8249.05,0.0,19102,Assistant,Pacific Islander,3,10,Bachelor,2887.1675,241117.6234931744
+245,COR,Correction and Rehabilitation,DS MCCF Unit 3 Security,M,48073.0,13937.84,0.0,90001,Assistant,Other,4,6,High School,4878.244,407422.2371205024
+246,DOT,Department of Transportation,Transit Nicholson Ride On,M,76419.0,54317.61,2276.56,95113,Senior,Native American,5,3,High School,19580.3035,1635411.380015558
+247,POL,Department of Police,PSB 4th District Patrol,M,55154.0,227.18,0.0,85001,Manager,White,3,6,High School,79.51299999999999,6608.353346332368
+248,POL,Department of Police,FSB Traffic Division Collision Reconstruction,M,95112.0,6583.18,2295.27,60601,Junior,Asian,2,6,Bachelor,2877.9305,240346.1033049367
+249,POL,Department of Police,PSB 5th District Community Action Team,M,90072.0,2211.29,0.0,92101,Junior,Other,1,6,Master,773.9514999999999,64611.31125901989
+250,DGS,Department of General Services,Facilities Maintenance,M,69604.0,61676.61,4207.84,19102,Senior,Pacific Islander,1,9,High School,22638.7735,1890870.0083710093
+251,POL,Department of Police,HQ Office of the Chief Internal Affairs Division,M,109849.0,323.12,3816.41,78201,Assistant,Other,2,4,Bachelor,1067.1945,89104.42531763017
+252,CEC,Community Engagement Cluster,Business Management,F,76020.33,0.0,0.0,19102,Manager,White,5,7,Ph.D,0.0,1242.3542771853845
+253,FRS,Fire and Rescue Services,Station 22,M,84401.0,1176.16,0.0,78201,Manager,Other,1,6,Master,411.656,34350.58890785981
+254,FIN,Department of Finance,Tax Operations,F,111407.0,0.0,0.0,95113,Assistant,Hispanic,5,6,Master,0.0,1242.3542771853845
+255,HHS,Department of Health and Human Services,Office of Eligibility and Support Services,F,87969.0,0.0,2620.8,90001,Senior,Hispanic,4,6,Ph.D,655.2,11006.3841881091
+256,POL,Department of Police,PSB 6th District Patrol,F,86830.64,4295.04,5256.16,95113,Manager,Native American,5,7,Bachelor,2817.304,43226.84836168634
+257,DGS,Department of General Services,Property Management,M,106250.0,50861.51,0.0,78201,Manager,Black,3,4,Ph.D,17801.5285,1486839.2437340284
+258,POL,Department of Police,PSB 3rd District Patrol,F,91894.0,18836.36,0.0,78201,Junior,Black,1,10,Master,6592.726,99489.56712597117
+259,LIB,Department of Public Libraries,Digital Strategies,F,86668.31,0.0,0.0,92101,Manager,White,1,1,Bachelor,0.0,1242.3542771853845
+260,FRS,Fire and Rescue Services,Station 32,M,92838.0,58237.38,0.0,10001,Junior,White,5,3,Ph.D,20383.083,1702463.517176254
+261,LIB,Department of Public Libraries,White Oak Library,M,29871.81,0.0,0.0,95113,Senior,White,2,9,Ph.D,0.0,-32.96794059444101
+262,POL,Department of Police,ISB Criminal Investigations Division 3rd District Investigative Section,M,95112.0,2687.59,0.0,95113,Manager,Black,2,6,Bachelor,940.6565,78535.34211104579
+263,FRS,Fire and Rescue Services,Station 17,M,55052.0,8185.59,0.0,95113,Senior,Native American,5,9,High School,2864.9565,239262.4502874856
+264,FRS,Fire and Rescue Services,FRS 45 Fourth Battalion - Administration,F,137231.0,0.0,5099.39,95113,Manager,Pacific Islander,5,5,Master,1274.8475,20240.59774767733
+265,FRS,Fire and Rescue Services,Station 7,M,68658.0,50651.6,0.0,60601,Junior,Asian,4,7,High School,17728.059999999998,1480702.789154669
+266,OHR,Office of Human Resources,Health Insurance Team,F,108486.88,0.0,0.0,19102,Manager,Hispanic,3,4,Master,0.0,1242.3542771853845
+267,HHS,Department of Health and Human Services,Child Welfare Services,M,68018.11,0.0,0.0,95113,Junior,Asian,5,5,Master,0.0,-32.96794059444101
+268,ABS,Alcohol Beverage Services,Beer Delivery Operations,M,65832.76,12552.22,0.0,78201,Junior,Hispanic,1,1,Ph.D,4393.276999999999,366915.3808761519
+269,HHS,Department of Health and Human Services,Aging & Disability Services Division,M,63577.77,0.0,0.0,60601,Assistant,Other,3,5,Bachelor,0.0,-32.96794059444101
+270,HHS,Department of Health and Human Services,Public Health Services Division,F,161615.3,0.0,0.0,60601,Assistant,Pacific Islander,2,5,Master,0.0,1242.3542771853845
+271,POL,Department of Police,ISB Major Crimes Division Fugitive Section,M,99865.0,9550.54,7060.43,19102,Junior,White,4,1,Bachelor,5107.7965,426595.6037991244
+272,DOT,Department of Transportation,Transit Gaithersburg Ride On,M,69604.0,1641.05,2073.76,60601,Assistant,Other,1,8,Master,1092.8075,91243.75048611904
+273,FRS,Fire and Rescue Services,Station 32,M,61923.0,5909.16,0.0,78201,Assistant,Pacific Islander,3,4,Master,2068.206,172713.8851972541
+274,HHS,Department of Health and Human Services,School Health Services,F,48767.54,120.59,0.0,92101,Assistant,Hispanic,3,3,Bachelor,42.2065,1871.330968936608
+275,HHS,Department of Health and Human Services,Public Health Services Division,F,79319.46,312.2,0.0,75201,Senior,Pacific Islander,5,6,Master,109.27,2870.735761261444
+276,DPS,Department of Permitting Services,Land Development Right-of-Way Inspection,M,62434.52,9679.85,0.0,90001,Assistant,Pacific Islander,3,4,Master,3387.9475,282945.26015720685
+277,FRS,Fire and Rescue Services,Station 6,M,87356.0,5321.19,0.0,75201,Assistant,Pacific Islander,5,10,Bachelor,1862.4165,155525.32248454014
+278,DGS,Department of General Services,Facilities Maintenance,M,72039.76,26805.48,0.0,10001,Junior,Other,5,3,Bachelor,9381.918,783591.4925325584
+279,CEC,Community Engagement Cluster,Wheaton Urban District,M,58493.17,5563.81,0.0,78201,Manager,Asian,2,5,Master,1947.3335,162618.01273295187
+280,HHS,Department of Health and Human Services,Chief Operating Officer Division,M,105023.22,0.0,0.0,92101,Manager,Other,4,1,Master,0.0,-32.96794059444101
+281,DGS,Department of General Services,Fleet Automotive Heavy Equipment,M,90236.95,6040.6,0.0,92101,Assistant,Black,4,7,Ph.D,2114.21,176556.36811808188
+282,HHS,Department of Health and Human Services,Public Health Services Division,M,50485.6,673.56,0.0,85001,Assistant,Hispanic,5,3,Bachelor,235.74599999999995,19657.71066677602
+283,ABS,Alcohol Beverage Services,Retail Administration,F,63167.59,0.0,0.0,85001,Senior,White,2,9,Master,0.0,1242.3542771853845
+284,POL,Department of Police,PSB 5th District Patrol,M,99865.0,1343.46,7060.43,78201,Senior,Native American,2,5,Bachelor,2235.3185,186671.95247633493
+285,SHF,Sheriff's Office,Child Support,M,75391.0,98.73,0.0,85001,Manager,Other,3,6,Ph.D,34.5555,2853.2793111807327
+286,ABS,Alcohol Beverage Services,Liquor and WIne Loading,M,44384.07,1934.33,0.0,10001,Junior,White,2,7,High School,677.0155,56514.73434367855
+287,POL,Department of Police,PSB 4th District Community Action Team,M,74752.0,6711.97,0.0,95113,Assistant,Asian,3,6,High School,2349.1895,196183.02483259924
+288,POL,Department of Police,PSB 4th District Patrol,M,95112.0,11533.44,3304.47,75201,Assistant,Other,1,7,Bachelor,4862.8215,406134.0732033111
+289,POL,Department of Police,PSB 4th District Patrol,M,109849.0,2812.19,2504.05,85001,Senior,Black,4,1,Ph.D,1610.279,134465.54425981577
+290,HHS,Department of Health and Human Services,Chief Operating Officer Division,M,111485.0,0.0,0.0,19102,Manager,Asian,4,9,Bachelor,0.0,-32.96794059444101
+291,DOT,Department of Transportation,Transit Silver Spring Ride On,M,58060.12,22620.16,0.0,85001,Junior,Other,2,3,High School,7917.056,661238.9315298271
+292,DGS,Department of General Services,Fleet Management Administration,F,80086.0,0.0,0.0,95113,Junior,Asian,5,3,Master,0.0,1242.3542771853845
+293,HHS,Department of Health and Human Services,Behavioral Health and Crisis Services Division,F,63425.0,0.0,1889.68,10001,Assistant,Other,3,10,Bachelor,472.42,8282.529812164903
+294,FRS,Fire and Rescue Services,Station 15,M,68658.0,17789.48,0.0,78201,Junior,Black,4,4,High School,6226.317999999999,520020.08341673785
+295,FRS,Fire and Rescue Services,Station 30,M,96088.0,61.09,3773.53,85001,Assistant,White,5,10,Master,964.764,80548.92043062356
+296,FRS,Fire and Rescue Services,Field Recruits,M,48942.0,0.0,0.0,60601,Assistant,Hispanic,5,10,Master,0.0,-32.96794059444101
+297,CCL,County Council,CCL 01 Council Central Staff,M,63425.0,0.0,0.0,90001,Junior,Hispanic,3,1,High School,0.0,-32.96794059444101
+298,DOT,Department of Transportation,Highway Services,M,101350.0,5244.16,0.0,10001,Senior,Native American,5,6,High School,1835.456,153273.4474130903
+299,DOT,Department of Transportation,Transit Gaithersburg Ride On,M,69604.0,24543.91,1440.16,60601,Junior,Other,3,9,Master,8950.4085,747549.6726054881
+300,DOT,Department of Transportation,Highway Services,M,47606.14,12070.85,0.0,78201,Senior,White,4,7,Ph.D,4224.7975,352843.13495711
+301,OCP,Office of Consumer Protection,Investigations,F,111407.0,0.0,0.0,19102,Manager,Hispanic,4,8,High School,0.0,1242.3542771853845
+302,OAS,Office of Animal Services,Animal Services Division,M,58045.91,485.34,0.0,19102,Manager,White,3,3,Master,169.86899999999997,14155.33593033195
+303,POL,Department of Police,PSB 2nd District Patrol,M,74752.0,921.45,0.0,19102,Manager,Other,2,1,Bachelor,322.5075,26904.46273040965
+304,DEP,Department of Environmental Protection,Recycling and Refuse Services,F,92211.0,15302.31,0.0,92101,Senior,Black,4,1,Ph.D,5355.808499999999,81056.57038093914
+305,POL,Department of Police,ISB Major Crimes Division Homicide and Sex Section,M,91894.0,24427.26,0.0,19102,Assistant,Native American,1,7,Ph.D,8549.541,714067.2249430035
+306,DGS,Department of General Services,Fleet Management Fleet Services,M,83931.0,4582.08,2500.16,75201,Assistant,White,3,8,Master,2228.768,186124.82213173705
+307,DOT,Department of Transportation,Transit Silver Spring Ride On,M,54199.94,6162.47,0.0,95113,Assistant,Native American,4,9,High School,2156.8645,180119.0841372639
+308,FRS,Fire and Rescue Services,Station 35,M,87356.0,4453.01,0.0,78201,Manager,Native American,4,10,High School,1558.5535,130145.17319814116
+309,REC,Department of Recreation,Facilities Division,M,92211.0,0.0,0.0,60601,Senior,Hispanic,3,7,Master,0.0,-32.96794059444101
+310,SHF,Sheriff's Office,Warrant Section,F,63425.0,0.0,3835.52,90001,Senior,Other,3,6,Bachelor,958.88,15531.93455952136
+311,FRS,Fire and Rescue Services,Station 17,M,96088.0,34908.78,3339.7,95113,Manager,Other,3,5,Ph.D,13052.997999999998,1090218.3554356217
+312,HHS,Department of Health and Human Services,Public Health Services Division,F,112287.51,0.0,0.0,19102,Assistant,Pacific Islander,1,3,Master,0.0,1242.3542771853845
+313,DPS,Department of Permitting Services,Zoning Review,F,93260.14,0.0,0.0,90001,Assistant,Other,4,4,Master,0.0,1242.3542771853845
+314,DOT,Department of Transportation,Director Management Services,M,111407.0,0.0,0.0,85001,Manager,Other,3,4,Master,0.0,-32.96794059444101
+315,POL,Department of Police,PSB 3rd District Patrol,M,109849.0,1797.77,3816.41,85001,Manager,Asian,1,8,Master,1583.322,132213.96152577622
+316,DEP,Department of Environmental Protection,Recycling and Refuse Services,F,92211.0,0.0,2746.64,75201,Junior,Hispanic,4,6,Master,686.66,11475.212608435197
+317,HHS,Department of Health and Human Services,HHS 60 School Health Services,F,106250.0,0.0,0.0,77001,Manager,Black,4,2,Bachelor,0.0,1242.3542771853845
+318,HHS,Department of Health and Human Services,Office of Eligibility and Support Services,F,106250.0,0.0,2110.16,95113,Assistant,Asian,1,1,Ph.D,527.54,9103.94820149658
+319,FRS,Fire and Rescue Services,Station 34,M,84401.0,34146.24,0.0,95113,Junior,Black,5,7,Master,11951.184,998189.3693272624
+320,FRS,Fire and Rescue Services,Second Battalion - Administration,M,105707.0,4313.41,0.0,75201,Senior,White,5,3,High School,1509.6935,126064.14295051822
+321,REC,Department of Recreation,Youth Development Youth Services,M,73636.66,0.0,0.0,92101,Manager,Black,3,9,Ph.D,0.0,-32.96794059444101
+322,SHF,Sheriff's Office,Civil Process,M,63550.0,183.32,0.0,92101,Assistant,Native American,1,5,Ph.D,64.16199999999999,5326.161464808423
+323,POL,Department of Police,MSB Training and Education Division,M,82882.0,4379.57,0.0,92101,Assistant,Hispanic,2,9,Ph.D,1532.8494999999998,127998.24725698476
+324,FRS,Fire and Rescue Services,Admin Services,F,101350.0,6053.47,2013.44,77001,Assistant,Hispanic,4,6,Ph.D,2622.0745,40317.4669857787
+325,FRS,Fire and Rescue Services,Field Operations Administration,M,85988.0,3626.22,0.0,77001,Junior,Black,1,8,Ph.D,1269.177,105975.00845292494
+326,POL,Department of Police,PSB 6th District Special Assignment Team,M,95112.0,12174.19,1408.44,85001,Junior,Other,2,5,Bachelor,4613.076499999999,385274.12847976224
+327,DPS,Department of Permitting Services,Well and Septic Review and Inspections,M,106250.0,8501.79,0.0,95113,Assistant,Black,3,7,High School,2975.6265000000003,248506.1592007978
+328,CCL,County Council,Council Members and Staff,M,58876.16,0.0,0.0,19102,Junior,White,3,10,High School,0.0,-32.96794059444101
+329,POL,Department of Police,PSB 1st District Patrol,M,99865.0,190.02,7060.43,90001,Junior,Black,2,2,High School,1831.6145,152952.5862240554
+330,SHF,Sheriff's Office,Administration,M,101350.0,0.0,936.0,77001,Assistant,Asian,5,4,High School,234.0,19511.87606152941
+331,CEC,Community Engagement Cluster,Wheaton Urban District,M,45865.9,1357.44,0.0,90001,Senior,Native American,3,6,High School,475.104,39650.08148156389
+332,FRS,Fire and Rescue Services,Station 18,M,64091.0,61112.39,0.0,90001,Senior,Asian,3,7,Master,21389.3365,1786510.8149715154
+333,DPS,Department of Permitting Services,Zoning Review,M,106250.0,0.0,6423.04,60601,Senior,Black,1,5,High School,1605.76,134088.09490064654
+334,ABS,Alcohol Beverage Services,Leisure World,F,37082.6,156.77,0.0,85001,Manager,Black,4,1,Bachelor,54.8695,2060.039623945807
+335,HHS,Department of Health and Human Services,Behavioral Health and Crisis Services Division,F,78789.38,0.0,0.0,85001,Manager,Native American,2,1,Ph.D,0.0,1242.3542771853845
+336,CCL,County Council,Council Members and Staff,M,61428.0,0.0,0.0,77001,Assistant,Hispanic,5,3,Bachelor,0.0,-32.96794059444101
+337,POL,Department of Police,PSB 5th District Patrol,F,69782.0,462.83,0.0,90001,Junior,Native American,4,6,Ph.D,161.9905,3656.395924446508
+338,FRS,Fire and Rescue Services,Station 10,M,96088.0,23821.61,1035.28,95113,Junior,White,4,8,Ph.D,8596.3835,717979.7435548389
+339,TBS,Department of Technology and Enterprise Business Solutions,CIO One Face Forward Initiative,M,152785.0,0.0,0.0,19102,Assistant,Hispanic,1,2,Ph.D,0.0,-32.96794059444101
+340,DGS,Department of General Services,Fleet Management Services,M,66872.32,4496.7,0.0,78201,Junior,White,2,4,Ph.D,1573.8449999999998,131422.39534369018
+341,POL,Department of Police,PSB 4th District Patrol,F,95112.0,2996.8,6724.51,78201,Senior,Native American,5,10,Bachelor,2730.0075,41925.924007109184
+342,POL,Department of Police,FSB Traffic Division School Safety Section,F,18655.84,0.0,0.0,90001,Assistant,White,3,1,Bachelor,0.0,1242.3542771853845
+343,HHS,Department of Health and Human Services,Aging & Disability Services Division,F,82000.0,0.0,0.0,95113,Manager,White,1,5,Master,0.0,1242.3542771853845
+344,LIB,Department of Public Libraries,Chevy Chase Library,F,65024.16,0.0,0.0,85001,Manager,Other,5,10,Ph.D,0.0,1242.3542771853845
+345,POL,Department of Police,PSB 2nd District Patrol,F,57085.0,2179.86,0.0,10001,Assistant,Hispanic,3,1,Bachelor,762.951,12612.128978908764
+346,HHS,Department of Health and Human Services,Behavioral Health and Crisis Services Division,F,72930.0,0.0,0.0,85001,Manager,Hispanic,5,10,Master,0.0,1242.3542771853845
+347,HHS,Department of Health and Human Services,Child Welfare Services,F,47724.76,0.0,0.0,75201,Senior,Black,3,4,Ph.D,0.0,1242.3542771853845
+348,LIB,Department of Public Libraries,Maggie Nightingale Library,F,87272.96,0.0,0.0,90001,Assistant,Pacific Islander,5,1,Master,0.0,1242.3542771853845
+349,HHS,Department of Health and Human Services,HHS 60 School Health Services,F,60903.5,418.81,0.0,92101,Senior,Hispanic,4,6,Bachelor,146.5835,3426.795178357372
+350,POL,Department of Police,PSB 1st District Patrol,M,57085.0,0.0,0.0,90001,Senior,White,3,2,Ph.D,0.0,-32.96794059444101
+351,ABS,Alcohol Beverage Services,Downtown Rockville,M,19513.77,7.41,0.0,92101,Senior,Native American,1,7,Bachelor,2.5935,183.65408042909831
+352,HHS,Department of Health and Human Services,Services to End and Prevent Homelessness Division,F,101350.0,0.0,6127.68,95113,Junior,Pacific Islander,5,1,Ph.D,1531.92,24071.5861165356
+353,POL,Department of Police,ISB Criminal Investigations Division 6th District Investigative Section,F,91894.0,0.0,0.0,60601,Assistant,Black,5,3,Master,0.0,1242.3542771853845
+354,FRS,Fire and Rescue Services,Station 21,M,119197.0,59928.57,2877.36,90001,Manager,Pacific Islander,5,2,Bachelor,21694.3395,1811986.1827286936
+355,DOT,Department of Transportation,DOT 50 Transit Silver Spring Ride On,M,44092.04,3677.56,0.0,95113,Junior,Black,5,3,Bachelor,1287.146,107475.86871734443
+356,POL,Department of Police,PSB 4th District Patrol,M,109849.0,712.98,0.0,78201,Manager,Pacific Islander,5,1,Master,249.543,20810.10473813202
+357,FRS,Fire and Rescue Services,FRS 45 Station 26,M,96088.0,0.0,3339.7,95113,Manager,Other,2,4,Ph.D,834.925,69704.12128365022
+358,FRS,Fire and Rescue Services,Station 25,M,55052.0,9891.81,0.0,85001,Junior,Hispanic,4,6,Ph.D,3462.1334999999995,289141.643905675
+359,HHS,Department of Health and Human Services,HHS 60 School Health Services,F,169856.0,0.0,0.0,90001,Manager,White,5,2,Master,0.0,1242.3542771853845
+360,HHS,Department of Health and Human Services,Behavioral Health and Crisis Services Division,F,85730.89,3242.77,0.0,78201,Manager,Native American,1,8,Ph.D,1134.9695,18156.084658727097
+361,POL,Department of Police,PSB 5th District Station,M,146155.12,1904.26,0.0,92101,Assistant,White,4,2,High School,666.491,55635.67575094199
+362,COR,Correction and Rehabilitation,DS MCDC Custody and Security,M,52246.0,47422.79,0.0,78201,Senior,Pacific Islander,3,10,Master,16597.9765,1386312.5937834124
+363,POL,Department of Police,PSB 3rd District Patrol,F,95112.0,4695.81,0.0,78201,Junior,Black,2,7,Master,1643.5335,25734.891294287245
+364,POL,Department of Police,POL 47 MSB Communications Division,F,53350.82,4223.21,0.0,92101,Assistant,Asian,1,8,Bachelor,1478.1235,23269.891008014514
+365,DGS,Department of General Services,Central Duplicating,F,47273.63,27.28,0.0,75201,Assistant,Other,1,7,High School,9.548,1384.6420634941444
+366,FRS,Fire and Rescue Services,Recruiting,M,137231.0,0.0,4798.0,77001,Manager,Asian,2,4,Bachelor,1199.5,100155.23881388229
+367,HHS,Department of Health and Human Services,Public Health Services Division,F,78212.15,4235.63,0.0,19102,Manager,Native American,4,1,Bachelor,1482.4705,23334.67159107737
+368,FRS,Fire and Rescue Services,Technology Services,M,150943.0,0.0,5244.72,75201,Junior,Hispanic,3,6,Ph.D,1311.18,109483.3079513062
+369,HHS,Department of Health and Human Services,Aging & Disability Services Division,F,106250.0,0.0,3164.72,78201,Junior,Hispanic,5,8,High School,791.18,13032.80785613017
+370,POL,Department of Police,HQ Office of the Chief,M,99865.0,12457.1,0.0,95113,Senior,Hispanic,5,5,Master,4359.985,364134.6674294908
+371,POL,Department of Police,PSB 3rd District Patrol,M,71191.0,10982.38,0.0,10001,Senior,Native American,2,9,Ph.D,3843.833,321023.0848594728
+372,POL,Department of Police,MSB Communications Division,M,68861.68,9333.55,0.0,77001,Manager,Black,4,5,Ph.D,3266.7424999999994,272821.6156389272
+373,ABS,Alcohol Beverage Services,Westwood,M,61929.22,338.1,0.0,90001,Manager,Asian,3,5,Master,118.335,9850.95990124883
+374,POL,Department of Police,PSB 5th District Patrol,M,109849.0,4092.05,7766.33,10001,Junior,Black,5,9,Ph.D,3373.8,281763.59058233484
+375,REC,Department of Recreation,Business Services,F,91734.25,0.0,0.0,10001,Junior,White,5,4,Ph.D,0.0,1242.3542771853845
+376,ABS,Alcohol Beverage Services,Beer Warehouse Operations,M,63425.0,1053.66,0.0,95113,Junior,Hispanic,4,9,High School,368.781,30769.45563182964
+377,POL,Department of Police,ISB Major Crimes Division Fugitive Section,M,95112.0,5028.61,6724.51,85001,Assistant,Black,5,2,Master,3441.141,287388.24588125374
+378,COR,Correction and Rehabilitation,DS MCCF Unit 2 Security,M,52246.0,12615.48,0.0,60601,Junior,Black,4,3,High School,4415.418,368764.70733363496
+379,COR,Correction and Rehabilitation,DS MCCF Unit 3 Security,F,99328.0,33436.46,0.0,10001,Assistant,Black,5,5,High School,11702.761,175641.17668926038
+380,DPS,Department of Permitting Services,Land Development Right-of-Way Plan Review,M,116825.0,0.0,2416.8,10001,Junior,Asian,1,6,Master,604.2,50432.82157258176
+381,HHS,Department of Health and Human Services,HHS 60 School Health Services,F,74472.0,0.0,0.0,92101,Manager,Hispanic,5,7,Ph.D,0.0,1242.3542771853845
+382,PIO,Office of Public Information,MC311,M,101350.0,144.02,0.0,77001,Junior,White,4,6,High School,50.407,4177.275442375887
+383,POL,Department of Police,FSB Security Services Division,M,49264.66,12540.2,0.0,95113,Junior,Native American,1,3,High School,4389.07,366563.9913089856
+384,COR,Correction and Rehabilitation,DS MCCF Unit 1 Security,M,70651.0,21195.89,0.0,19102,Assistant,Pacific Islander,4,6,Master,7418.561499999999,619602.1911947128
+385,TBS,Department of Technology and Enterprise Business Solutions,ODT Geographic Information System,F,128483.0,0.0,2552.16,85001,Senior,Other,1,6,Master,638.04,10750.659595203952
+386,HCA,Department of Housing and Community Affairs,HCA 76 Housing,F,167345.0,0.0,0.0,95113,Senior,Black,2,9,Bachelor,0.0,1242.3542771853845
+387,POL,Department of Police,PSB 5th District Patrol,M,91894.0,0.0,0.0,78201,Assistant,White,4,9,Master,0.0,-32.96794059444101
+388,FRS,Fire and Rescue Services,Station 40,M,73548.0,18756.72,0.0,90001,Assistant,Pacific Islander,3,4,Master,6564.852,548296.1270894515
+389,FRS,Fire and Rescue Services,Station 7,M,71062.0,22822.5,0.0,95113,Assistant,Asian,1,2,Bachelor,7987.874999999999,667154.0866895979
+390,HHS,Department of Health and Human Services,School Health Services,M,63425.0,97.05,3835.52,19102,Manager,Native American,1,6,Master,992.8475,82894.59404828871
+391,HHS,Department of Health and Human Services,Behavioral Health and Crisis Services Division,F,116825.0,13701.99,1079.04,75201,Assistant,Pacific Islander,3,2,High School,5065.4565,76729.63873762944
+392,DPS,Department of Permitting Services,Central Services Unit,F,92211.0,0.0,0.0,90001,Assistant,Black,1,3,Bachelor,0.0,1242.3542771853845
+393,ABS,Alcohol Beverage Services,White Oak,M,38380.36,81.24,0.0,95113,Junior,Other,2,5,Master,28.434,2341.9811805867107
+394,FRS,Fire and Rescue Services,Field Recruits,M,48942.0,338.28,0.0,60601,Junior,Black,1,9,High School,118.39799999999998,9856.221974634016
+395,CEX,Offices of the County Executive,County Executive's Office,F,170000.0,0.0,0.0,85001,Senior,Black,1,2,High School,0.0,1242.3542771853845
+396,HHS,Department of Health and Human Services,HHS 60 Services to End and Prevent Homelessness Division,F,63425.0,1147.41,2022.12,10001,Manager,Hispanic,5,8,Master,907.1235,14760.640276730268
+397,HHS,Department of Health and Human Services,School Health Services,F,52366.97,43.17,0.0,60601,Junior,Hispanic,5,8,Bachelor,15.1095,1467.5215695222307
+398,REC,Department of Recreation,Countywide Programs,M,92211.0,0.0,2746.64,85001,Assistant,Native American,2,9,High School,686.66,57320.29095897121
+399,POL,Department of Police,POL 47 FSB Security Services Division,M,71852.0,2632.63,2019.84,95113,Junior,Asian,5,1,Ph.D,1426.3805,119105.4267609928
+400,FRS,Fire and Rescue Services,Station 17,F,73548.0,41626.77,0.0,19102,Junior,Black,3,2,High School,14569.369499999995,218360.42445621407
+401,LIB,Department of Public Libraries,Technology Management,M,27867.4,0.0,0.0,78201,Assistant,Native American,4,6,Ph.D,0.0,-32.96794059444101
+402,DOT,Department of Transportation,Transit Silver Spring Ride On,M,92211.0,332.5,0.0,60601,Assistant,Hispanic,3,3,High School,116.375,9687.250951487453
+403,ABS,Alcohol Beverage Services,Beer Warehouse Operations,M,45434.56,933.67,0.0,90001,Senior,Pacific Islander,4,8,Ph.D,326.7845,27261.6990457818
+404,DOT,Department of Transportation,DOT 50 Highway Services,M,66446.0,0.0,2398.45,92101,Assistant,White,5,8,Ph.D,599.6125,50049.65075266832
+405,DGS,Department of General Services,Administration and Budget,F,111407.0,0.0,0.0,85001,Senior,Hispanic,4,8,Master,0.0,1242.3542771853845
+406,HHS,Department of Health and Human Services,Office of Eligibility and Support Services,M,87969.0,0.0,5318.56,77001,Junior,Other,4,10,Master,1329.64,111025.1789781404
+407,FRS,Fire and Rescue Services,Station 28,M,87356.0,50190.81,0.0,95113,Assistant,Hispanic,3,6,Ph.D,17566.783499999998,1467232.173626
+408,POL,Department of Police,FSB Special Operations Division Tactical Operations Section,M,95112.0,11604.89,6724.51,75201,Manager,Hispanic,4,1,Master,5742.839,479637.5123342471
+409,DGS,Department of General Services,Facilities Maintenance,F,37280.87,295.75,0.0,19102,Assistant,Native American,2,8,Ph.D,103.5125,2784.9353915847905
+410,ORE,Office of Racial Equity and Social Justice,Director's Office,F,97440.0,0.0,0.0,90001,Junior,White,5,6,Master,0.0,1242.3542771853845
+411,DOT,Department of Transportation,Transportation Technical Center,M,101350.0,18015.16,936.0,77001,Assistant,Other,1,9,Bachelor,6539.306,546162.3980942452
+412,HHS,Department of Health and Human Services,Behavioral Health and Crisis Services Division,M,104705.1,2290.71,0.0,92101,Assistant,Black,5,8,Bachelor,801.7484999999999,66933.05497152859
+413,POL,Department of Police,FSB Traffic Division School Safety Section,F,22932.97,0.0,0.0,85001,Senior,Asian,5,4,Bachelor,0.0,1242.3542771853845
+414,ABS,Alcohol Beverage Services,Beer Loading,M,40841.1,5553.29,0.0,95113,Senior,Hispanic,2,6,Bachelor,1943.6515,162310.4737773287
+415,REC,Department of Recreation,Countywide Programs,F,92211.0,0.0,744.8,77001,Junior,White,1,9,Ph.D,186.2,4017.1747433239607
+416,FRS,Fire and Rescue Services,Station 23,M,56980.0,22389.97,0.0,75201,Junior,White,2,3,Master,7836.4895,654509.6166824035
+417,CCL,County Council,Council Central Staff,F,76419.0,0.0,1517.36,90001,Junior,Pacific Islander,5,7,Bachelor,379.34,6895.417626406693
+418,TBS,Department of Technology and Enterprise Business Solutions,ODT Geographic Information System,F,128483.0,0.0,2552.16,19102,Senior,Native American,5,4,Bachelor,638.04,10750.659595203952
+419,OAS,Office of Animal Services,Animal Services Division,F,74036.48,3562.1,0.0,60601,Junior,Pacific Islander,1,7,Bachelor,1246.735,19821.654996042947
+420,POL,Department of Police,MSB Training and Education Division,F,92982.6,2016.61,2774.72,78201,Junior,Pacific Islander,3,8,High School,1399.4935,22098.118004510347
+421,FRS,Fire and Rescue Services,Station 18,M,105707.0,102.08,7546.8,85001,Manager,White,5,10,Master,1922.428,160537.7814838284
+422,ABS,Alcohol Beverage Services,Cabin John,M,49264.67,40.85,0.0,19102,Assistant,Native American,1,5,Bachelor,14.2975,1161.230380432763
+423,FRS,Fire and Rescue Services,Second Battalion - Administration,M,85988.0,26999.54,0.0,19102,Senior,White,4,5,High School,9449.839,789264.5923166109
+424,COR,Correction and Rehabilitation,DS MCCF Unit 3 Security,M,65951.0,52492.11,0.0,90001,Manager,Hispanic,3,5,Bachelor,18372.2385,1534507.7818556186
+425,OMB,Office of Management and Budget,"Process, Production and Technology",F,92211.0,0.0,0.0,60601,Manager,Other,5,8,High School,0.0,1242.3542771853845
+426,HHS,Department of Health and Human Services,Behavioral Health and Crisis Services Division,F,65657.81,0.0,0.0,19102,Manager,White,4,2,Ph.D,0.0,1242.3542771853845
+427,CCL,County Council,CCL 01 Council Members and Staff,M,52815.71,0.0,0.0,75201,Senior,Other,3,3,Master,0.0,-32.96794059444101
+428,COR,Correction and Rehabilitation,DS MCCF Unit 3 Security,M,54075.0,14433.31,0.0,92101,Assistant,White,3,4,Ph.D,5051.6585,421906.67878805066
+429,POL,Department of Police,FSB Security Services Division,M,61787.45,1267.63,0.0,95113,Assistant,Asian,2,9,Ph.D,443.6705,37024.59919976577
+430,POL,Department of Police,PSB 6th District Patrol,M,57085.0,4604.61,0.0,85001,Assistant,Other,5,7,High School,1611.6134999999997,134577.0083381099
+431,HHS,Department of Health and Human Services,Office of Eligibility and Support Services,F,67211.42,8.0,0.0,75201,Junior,Native American,5,3,Master,2.8,1284.0809007363405
+432,OMB,Office of Management and Budget,Office of Management and Budget,F,108605.0,0.0,0.0,90001,Junior,Native American,5,2,Ph.D,0.0,1242.3542771853845
+433,FRS,Fire and Rescue Services,Station 15,M,96088.0,20028.22,0.0,78201,Junior,White,5,4,Ph.D,7009.877,585466.8288075933
+434,DPS,Department of Permitting Services,Land Development Sediment and Stormwater Inspection,M,141102.54,0.0,0.0,95113,Manager,Native American,1,3,Bachelor,0.0,-32.96794059444101
+435,FRS,Fire and Rescue Services,Station 10,M,83196.0,25153.26,0.0,85001,Senior,Pacific Islander,3,4,Bachelor,8803.641,735290.9209299252
+436,DOT,Department of Transportation,Transit Gaithersburg Ride On,M,130735.0,0.0,0.0,10001,Senior,Asian,1,1,High School,0.0,-32.96794059444101
+437,DOT,Department of Transportation,Highway Administration,M,70520.14,6109.2,0.0,90001,Senior,Pacific Islander,3,6,High School,2138.22,178561.80275265875
+438,FRS,Fire and Rescue Services,FRS 45 Station 33,M,96088.0,18135.52,5346.5,10001,Senior,Hispanic,1,2,Master,7684.057,641777.6960270456
+439,POL,Department of Police,PSB 1st District Special Assignment Team,M,95112.0,6403.47,6724.51,60601,Assistant,Native American,4,5,Master,3922.342,327580.54707213404
+440,FRS,Fire and Rescue Services,Station 12,M,61923.0,4307.35,0.0,92101,Assistant,Asian,5,8,Bachelor,1507.5725,125886.98647988356
+441,FRS,Fire and Rescue Services,Station 16,M,71062.0,42.71,0.0,19102,Senior,Other,1,3,Bachelor,14.9485,1215.605138746364
+442,DOT,Department of Transportation,Transit COS Marketing,F,73536.75,159.1,0.0,75201,Assistant,Hispanic,3,10,Master,55.685,2072.192503055023
+443,FRS,Fire and Rescue Services,Station 13,M,58975.0,2365.69,0.0,85001,Assistant,Other,1,10,High School,827.9915,69125.00087386934
+444,DOT,Department of Transportation,Transit Gaithersburg Ride On,M,63604.88,12678.44,0.0,10001,Junior,White,1,5,High School,4437.454,370605.2636688093
+445,HHS,Department of Health and Human Services,Behavioral Health and Crisis Services Division,M,106250.0,31265.19,3164.72,78201,Senior,White,5,5,Bachelor,11733.9965,980048.7889567014
+446,POL,Department of Police,PSB 3rd District Patrol,M,55154.0,1722.19,0.0,75201,Senior,Hispanic,5,8,High School,602.7665,50313.08852182515
+447,DPS,Department of Permitting Services,Residential Inspections,M,72473.63,0.0,0.0,90001,Manager,Other,5,10,Ph.D,0.0,-32.96794059444101
+448,POL,Department of Police,PSB 4th District Patrol,M,73684.0,2995.29,0.0,60601,Senior,Asian,3,7,High School,1048.3515,87530.564225613
+449,HHS,Department of Health and Human Services,School Health Services,F,37275.88,0.0,0.0,95113,Manager,Asian,5,10,Bachelor,0.0,1242.3542771853845
+450,POL,Department of Police,ISB Criminal Investigations Division 5th District Investigative Section,M,95112.0,8260.88,6724.51,92101,Assistant,Pacific Islander,1,4,Ph.D,4572.4355,381879.5899964703
+451,POL,Department of Police,HQ Office of the Chief Internal Affairs Division,M,109849.0,0.0,7766.33,90001,Manager,Native American,5,8,Master,1941.5825,162137.66060536122
+452,HHS,Department of Health and Human Services,Aging & Disability Services Division,F,106250.0,0.0,0.0,19102,Junior,Hispanic,1,4,Ph.D,0.0,1242.3542771853845
+453,POL,Department of Police,FSB Traffic Division Central Traffic Enforcement,M,95112.0,148.32,0.0,77001,Assistant,White,5,6,Master,51.91199999999999,4302.980528799803
+454,DPS,Department of Permitting Services,Fire Code Compliance,M,111407.0,0.0,0.0,77001,Manager,Hispanic,4,9,High School,0.0,-32.96794059444101
+455,HRC,Office of Human Rights,Compliance,F,125867.73,0.0,0.0,77001,Senior,Hispanic,3,9,High School,0.0,1242.3542771853845
+456,TBS,Department of Technology and Enterprise Business Solutions,OBP Public Safety Data Systems,F,128483.0,0.0,0.0,92101,Assistant,Pacific Islander,1,4,High School,0.0,1242.3542771853845
+457,POL,Department of Police,PSB 3rd District Patrol,M,64209.0,3560.75,0.0,77001,Manager,White,5,5,Master,1246.2624999999998,104061.07542776824
+458,COR,Correction and Rehabilitation,PRRS Facility and Security,M,96665.0,29965.9,2879.76,78201,Junior,Black,3,3,Master,11208.005,936115.3624013888
+459,FRS,Fire and Rescue Services,Station 32,F,78166.0,11886.22,0.0,75201,Manager,Hispanic,2,4,Bachelor,4160.177,63238.83270016597
+460,DEP,Department of Environmental Protection,"Planning, Outreach and Monitoring",M,96665.0,0.0,2879.76,75201,Junior,Pacific Islander,3,4,Ph.D,719.94,60100.00210593994
+461,FRS,Fire and Rescue Services,Third Battalion - Administration,M,85988.0,9449.26,0.0,10001,Manager,Black,2,5,Ph.D,3307.241,276204.2518133717
+462,FRS,Fire and Rescue Services,Emergency Communications Center (ECC),M,119197.0,10422.64,1238.36,77001,Junior,Asian,3,9,High School,3957.514,330518.28747060715
+463,HHS,Department of Health and Human Services,HHS 60 Office of Community Affairs Division,F,69125.0,0.0,0.0,75201,Manager,White,5,1,High School,0.0,1242.3542771853845
+464,FRS,Fire and Rescue Services,Procurement,F,80086.0,0.0,4842.24,95113,Junior,Other,5,1,Bachelor,1210.56,19282.56192213015
+465,POL,Department of Police,FSB Traffic Division School Safety Section,F,26002.53,0.0,0.0,85001,Manager,Other,5,1,Bachelor,0.0,1242.3542771853845
+466,COR,Correction and Rehabilitation,DS MCCF Unit 1 Security,M,52246.0,26735.88,0.0,60601,Manager,Black,5,1,Master,9357.558,781556.8241569528
+467,FRS,Fire and Rescue Services,Station 15,M,71062.0,1430.23,0.0,19102,Junior,Asian,2,6,Ph.D,500.5805,41778.005491051525
+468,DGS,Department of General Services,Fleet Management Fleet Services,M,70667.19,0.0,0.0,90001,Senior,Native American,2,5,Ph.D,0.0,-32.96794059444101
+469,DOT,Department of Transportation,Transit Nicholson Ride On,M,61453.99,2825.94,0.0,75201,Assistant,Other,1,3,Bachelor,989.079,82579.8301823827
+470,FRS,Fire and Rescue Services,Second Battalion - Administration,M,119197.0,76885.02,1244.01,90001,Senior,Asian,4,1,Master,27220.7595,2273580.2715757764
+471,POL,Department of Police,ISB Criminal Investigations Division 4th District Investigative Section,F,74752.0,5574.78,0.0,19102,Assistant,Pacific Islander,2,3,Master,1951.173,30319.447582110224
+472,DGS,Department of General Services,Fleet Management Fleet Services,M,83931.0,0.0,0.0,10001,Junior,Native American,1,2,High School,0.0,-32.96794059444101
+473,FRS,Fire and Rescue Services,Station 30,M,119197.0,52925.27,4181.76,90001,Senior,Black,4,4,Bachelor,19569.2845,1634491.018322996
+474,HHS,Department of Health and Human Services,School Health Services,F,53424.25,62.1,0.0,10001,Junior,Pacific Islander,2,7,High School,21.735,1566.2571924996803
+475,FRS,Fire and Rescue Services,Station 35,M,71062.0,5246.32,0.0,78201,Manager,Native American,4,2,High School,1836.212,153336.59229371254
+476,POL,Department of Police,MSB Communications Division,M,64282.49,5852.85,0.0,85001,Senior,Asian,5,5,High School,2048.4975,171067.73323992136
+477,POL,Department of Police,PSB 4th District Patrol,M,59939.0,302.59,0.0,60601,Assistant,Other,1,9,Bachelor,105.90649999999998,8812.869757315511
+478,SHF,Sheriff's Office,Courthouse Security,M,95922.0,857.68,0.0,95113,Assistant,White,1,4,Bachelor,300.188,25040.22706500194
+479,DGS,Department of General Services,Facilities,M,169848.96,0.0,0.0,78201,Junior,Native American,3,3,High School,0.0,-32.96794059444101
+480,DEP,Department of Environmental Protection,Waste Reduction and Recycling,F,74560.01,0.0,0.0,19102,Manager,Black,5,4,Bachelor,0.0,1242.3542771853845
+481,HHS,Department of Health and Human Services,Aging & Disability Services Division,F,87969.0,0.0,2620.8,90001,Senior,Pacific Islander,2,10,Ph.D,655.2,11006.3841881091
+482,FRS,Fire and Rescue Services,Station 4,M,96088.0,740.47,0.0,92101,Manager,Hispanic,3,1,Master,259.1645,21613.74027901421
+483,HHS,Department of Health and Human Services,Public Health Services Division,M,78797.72,0.0,0.0,90001,Assistant,Pacific Islander,4,1,Bachelor,0.0,-32.96794059444101
+484,LIB,Department of Public Libraries,White Oak Library,F,78051.41,0.0,0.0,85001,Manager,Black,1,5,Bachelor,0.0,1242.3542771853845
+485,ABS,Alcohol Beverage Services,Olney,M,91383.27,0.0,0.0,78201,Senior,White,1,9,Ph.D,0.0,-32.96794059444101
+486,POL,Department of Police,PSB 6th District Patrol,M,62037.0,3478.83,0.0,90001,Assistant,Pacific Islander,3,3,Bachelor,1217.5904999999998,101666.24736268749
+487,POL,Department of Police,PSB 5th District Special Assignment Team,M,82882.0,4353.52,0.0,60601,Junior,Asian,1,5,Ph.D,1523.732,127236.70830318407
+488,FRS,Fire and Rescue Services,Station 11,M,67677.0,0.0,0.0,90001,Senior,Other,2,6,Ph.D,0.0,-32.96794059444101
+489,HHS,Department of Health and Human Services,Services to End and Prevent Homelessness Division,F,87969.0,14860.55,5318.56,85001,Manager,Native American,5,1,High School,6530.8325,98567.20756356008
+490,HHS,Department of Health and Human Services,HHS 60 Aging & Disability Services Division,F,91880.68,0.0,0.0,75201,Senior,Other,4,10,High School,0.0,1242.3542771853845
+491,LIB,Department of Public Libraries,Davis Library,F,33127.94,0.0,0.0,85001,Junior,Other,2,9,Ph.D,0.0,1242.3542771853845
+492,ABS,Alcohol Beverage Services,Montrose,M,19513.51,21.71,0.0,85001,Senior,Pacific Islander,3,9,Master,7.5985,601.6965771411917
+493,POL,Department of Police,MSB Communications Division,M,59150.14,9680.68,0.0,75201,Assistant,Hispanic,5,3,Bachelor,3388.238,282969.5241622607
+494,SHF,Sheriff's Office,Sheriff Domestic Violence,M,61398.0,1525.5,0.0,95113,Senior,Asian,5,3,Ph.D,533.925,44563.103998867
+495,POL,Department of Police,FSB Traffic Division School Safety Section,F,18655.84,0.0,0.0,78201,Manager,Hispanic,1,8,High School,0.0,1242.3542771853845
+496,COR,Correction and Rehabilitation,DS MCDC Custody and Security,F,83913.0,57018.42,0.0,77001,Manager,Other,3,6,Master,19956.447,298640.62262847327
+497,OMB,Office of Management and Budget,Special Projects,F,141331.3,0.0,0.0,77001,Assistant,Black,2,4,Master,0.0,1242.3542771853845
+498,OAS,Office of Animal Services,Animal Services Division,F,81572.35,0.0,0.0,60601,Assistant,Asian,2,4,Bachelor,0.0,1242.3542771853845
+499,HHS,Department of Health and Human Services,Office of Eligibility and Support Services,M,50281.52,0.0,0.0,75201,Assistant,Other,4,2,Bachelor,0.0,-32.96794059444101
+500,FRS,Fire and Rescue Services,Training,F,119197.0,6563.32,0.0,85001,Assistant,Black,4,6,Master,2297.162,35475.50213774298
+501,FRS,Fire and Rescue Services,Station 32,M,55052.0,12382.77,0.0,85001,Junior,Black,3,4,Master,4333.9695,361961.7234588188
+502,DPS,Department of Permitting Services,Land Development Right-of-Way Inspection,M,72924.25,7065.84,0.0,95113,Manager,Asian,5,4,Bachelor,2473.044,206527.9687704669
+503,REC,Department of Recreation,REC 72 Facilities Division,M,92211.0,524.13,0.0,60601,Junior,Black,4,1,High School,183.4455,15289.312744839794
+504,HHS,Department of Health and Human Services,Office of Eligibility and Support Services,F,73415.55,0.0,0.0,10001,Assistant,Asian,2,4,High School,0.0,1242.3542771853845
+505,POL,Department of Police,FSB Special Operations Division Canine Section,M,95112.0,21893.94,6724.51,60601,Junior,Black,2,4,Bachelor,9344.0065,780424.9354668041
+506,COR,Correction and Rehabilitation,DS MCCF Unit 1 Security,M,99328.0,22570.67,3451.76,19102,Senior,Pacific Islander,4,2,Master,8762.6745,731869.1950674765
+507,COR,Correction and Rehabilitation,DS Health Services,F,89737.39,45683.69,0.0,95113,Senior,Asian,5,10,Bachelor,15989.2915,239520.62115825727
+508,ABS,Alcohol Beverage Services,Darnestown,F,38380.36,328.25,0.0,10001,Senior,Hispanic,4,6,High School,114.8875,2954.449799760549
+509,BOE,Board of Elections,Registration Services,F,92211.0,229.28,5574.4,78201,Manager,Hispanic,4,2,Ph.D,1473.848,23206.17594408876
+510,FRS,Fire and Rescue Services,Station 28,M,119197.0,18136.55,0.0,10001,Assistant,Black,5,8,High School,6347.7925,530166.2379156096
+511,OAS,Office of Animal Services,Animal Services Division,M,59698.04,0.0,0.0,10001,Junior,Hispanic,2,6,Master,0.0,-32.96794059444101
+512,LIB,Department of Public Libraries,Chevy Chase Library,F,63325.59,0.0,0.0,78201,Junior,Pacific Islander,4,3,Ph.D,0.0,1242.3542771853845
+513,FRS,Fire and Rescue Services,Station 8,M,96088.0,931.12,2319.78,85001,Junior,Black,4,8,Bachelor,905.837,75627.04426603744
+514,HHS,Department of Health and Human Services,HHS 60 School Health Services,F,106250.0,0.0,0.0,95113,Manager,Other,2,4,Bachelor,0.0,1242.3542771853845
+515,FRS,Fire and Rescue Services,Second Battalion - Administration,M,105707.0,5880.52,0.0,19102,Junior,Hispanic,2,4,Bachelor,2058.182,171876.63085418873
+516,DGS,Department of General Services,Facilities Maintenance,M,56097.49,3174.29,0.0,90001,Junior,Black,4,4,Bachelor,1111.0015,92763.40386977135
+517,DOT,Department of Transportation,Highway Services,M,72930.0,11576.14,4409.6,10001,Junior,Black,3,7,Ph.D,5154.048999999999,430458.8426760825
+518,DOT,Department of Transportation,Transit Gaithersburg Ride On,M,87969.0,2866.37,0.0,75201,Senior,Pacific Islander,1,6,Master,1003.2295,83761.7503321778
+519,FRS,Fire and Rescue Services,Station 17,M,81546.0,26381.97,0.0,95113,Junior,Asian,3,4,Ph.D,9233.6895,771210.710869444
+520,COR,Correction and Rehabilitation,DS MCCF Unit 1 Security,M,99328.0,78120.3,5993.17,19102,Junior,Black,1,8,Master,28840.3975,2408860.494011297
+521,HHS,Department of Health and Human Services,Aging & Disability Services Division,F,92211.0,0.0,0.0,60601,Junior,White,1,9,High School,0.0,1242.3542771853845
+522,FRS,Fire and Rescue Services,Station 17,M,96088.0,30381.48,3307.35,95113,Senior,Black,3,10,High School,11460.3555,957192.9314456536
+523,DGS,Department of General Services,Facilities Maintenance,M,80086.0,1039.59,0.0,10001,Assistant,Hispanic,2,10,High School,363.8564999999999,30358.13689555417
+524,DOT,Department of Transportation,Transit Silver Spring Ride On,M,45634.8,7343.88,0.0,60601,Junior,White,3,7,Bachelor,2570.358,214656.11812611943
+525,DGS,Department of General Services,Fleet Automotive Heavy Equipment,M,78350.0,4823.41,0.0,75201,Assistant,Asian,1,10,Bachelor,1688.1935,140973.35087521526
+526,DPS,Department of Permitting Services,Residential Inspections,M,74598.92,0.0,0.0,92101,Junior,Native American,4,4,Ph.D,0.0,-32.96794059444101
+527,LIB,Department of Public Libraries,Aspen Hill Library,F,24049.38,0.0,0.0,92101,Assistant,Black,3,9,Bachelor,0.0,1242.3542771853845
+528,HHS,Department of Health and Human Services,Child Welfare Services,F,63425.0,0.0,0.0,60601,Senior,Pacific Islander,4,3,Bachelor,0.0,1242.3542771853845
+529,POL,Department of Police,MSB Training and Education Division,M,95112.0,1351.57,1408.44,77001,Assistant,White,1,1,Bachelor,825.1595,68888.45814645903
+530,DGS,Department of General Services,Fleet Management Fleet Services,M,83931.0,0.0,0.0,95113,Junior,White,2,2,Bachelor,0.0,-32.96794059444101
+531,COR,Correction and Rehabilitation,PTS Supervision,M,86850.0,1691.13,0.0,78201,Assistant,Other,5,6,Bachelor,591.8955,49405.08852547007
+532,FIN,Department of Finance,Tax Operations,F,51699.34,93.21,0.0,19102,Assistant,Pacific Islander,4,6,Bachelor,32.62349999999999,1728.5215998334606
+533,POL,Department of Police,PSB 6th District Patrol,F,67420.0,3579.69,0.0,10001,Senior,White,5,1,Master,1252.8915,19913.40140957561
+534,LIB,Department of Public Libraries,Rockville Library,F,32628.38,0.0,0.0,90001,Junior,Other,3,4,Master,0.0,1242.3542771853845
+535,DEP,Department of Environmental Protection,Administration and Operations,F,72930.0,2373.68,3470.64,10001,Senior,Black,4,6,Bachelor,1698.448,26553.247247497595
+536,POL,Department of Police,MSB Communications Division,F,66532.38,7169.57,0.0,10001,Junior,Asian,3,7,Master,2509.3495,38637.59782871387
+537,HHS,Department of Health and Human Services,Behavioral Health and Crisis Services Division,F,25849.48,0.0,0.0,60601,Junior,White,5,10,Master,0.0,1242.3542771853845
+538,DOT,Department of Transportation,Transit Silver Spring Ride On,M,76419.0,288.04,4620.72,75201,Senior,Asian,3,7,Bachelor,1255.994,104873.89871583092
+539,FRS,Fire and Rescue Services,FRS 45 Station 7,M,119197.0,29607.3,7713.71,77001,Assistant,Black,3,9,Master,12290.982499999998,1026571.0303300644
+540,POL,Department of Police,FSB Traffic Division School Safety Section,M,18024.91,0.0,0.0,77001,Assistant,White,5,10,Bachelor,0.0,-32.96794059444101
+541,POL,Department of Police,PSB 6th District Patrol,M,80077.0,13644.88,0.0,90001,Junior,Native American,5,4,Bachelor,4775.708,398857.9203486999
+542,DGS,Department of General Services,Fleet Management Fleet Services,M,83931.0,3722.16,2500.16,10001,Assistant,Native American,4,6,Bachelor,1927.796,160986.1435462361
+543,HHS,Department of Health and Human Services,HHS 60 School Health Services,F,45821.71,0.0,0.0,95113,Junior,White,1,2,High School,0.0,1242.3542771853845
+544,DGS,Department of General Services,Fleet Management Administration,M,92211.0,817.9,2746.64,78201,Assistant,Asian,2,1,High School,972.925,81230.56774644121
+545,ABS,Alcohol Beverage Services,Liquor and Wine Delivery Operations,M,34831.0,1961.25,0.0,90001,Junior,Asian,5,8,Master,686.4375,57301.70665217432
+546,REC,Department of Recreation,Senior Programs,F,63448.16,0.0,0.0,95113,Senior,Pacific Islander,3,6,Bachelor,0.0,1242.3542771853845
+547,HHS,Department of Health and Human Services,Aging & Disability Services Division,M,106250.0,0.0,3164.72,77001,Senior,Pacific Islander,1,10,Master,791.18,66050.32127991985
+548,ABS,Alcohol Beverage Services,Special Order Liquor and Wine Warehouse Operations,M,58300.99,15624.99,0.0,95113,Assistant,Asian,4,1,High School,5468.746499999999,456743.94329727214
+549,ABS,Alcohol Beverage Services,King Farm,M,48444.0,0.0,2207.64,92101,Senior,Other,5,7,High School,551.91,46065.30066287638
+550,OLR,Office of Labor Relations,OLR 26 Labor Relations Division,M,141085.0,0.0,0.0,85001,Senior,Asian,4,9,Bachelor,0.0,-32.96794059444101
+551,COR,Correction and Rehabilitation,DS MCCF Unit 2 Security,F,62055.0,7785.56,0.0,19102,Senior,Pacific Islander,1,4,Master,2724.946,41850.49568385805
+552,FRS,Fire and Rescue Services,Admin Services,M,150943.0,0.0,10672.48,60601,Manager,Black,4,8,High School,2668.12,222821.6866702888
+553,HHS,Department of Health and Human Services,School Health Services,F,106250.0,0.0,0.0,75201,Junior,Native American,4,3,Ph.D,0.0,1242.3542771853845
+554,ABS,Alcohol Beverage Services,Retail Administration,M,98105.93,0.0,0.0,75201,Junior,Asian,2,9,Master,0.0,-32.96794059444101
+555,TBS,Department of Technology and Enterprise Business Solutions,ODT Web and Mobile Applications,M,128483.0,0.0,0.0,95113,Manager,Hispanic,4,6,Bachelor,0.0,-32.96794059444101
+556,DOT,Department of Transportation,Transit Silver Spring Ride On,M,72416.01,973.77,0.0,90001,Junior,Other,3,5,Bachelor,340.81949999999995,28433.972061037388
+557,POL,Department of Police,PSB 5th District Patrol,M,73684.0,53.14,0.0,75201,Manager,Asian,3,1,Ph.D,18.599,1520.513057676933
+558,POL,Department of Police,PSB 5th District Special Assignment Team,M,95112.0,11931.07,0.0,92101,Assistant,Pacific Islander,1,4,Master,4175.8745,348756.8426361018
+559,HHS,Department of Health and Human Services,Office of Eligibility and Support Services,M,101350.0,0.0,3019.12,10001,Assistant,Hispanic,1,1,Bachelor,754.78,63010.01221292282
+560,POL,Department of Police,PSB 2nd District Patrol,F,62037.0,3072.32,0.0,10001,Junior,Black,3,8,Bachelor,1075.312,17267.04678569454
+561,FRS,Fire and Rescue Services,Station 9,M,87356.0,34887.85,2108.2,60601,Manager,White,3,1,Ph.D,12737.7975,1063891.241752325
+562,LIB,Department of Public Libraries,Rockville Library,M,101151.93,0.0,0.0,75201,Senior,White,1,5,Ph.D,0.0,-32.96794059444101
+563,FRS,Fire and Rescue Services,Station 2,M,61923.0,8958.76,0.0,77001,Assistant,Hispanic,3,10,Bachelor,3135.566,261865.1018387366
+564,LIB,Department of Public Libraries,Wheaton Library,F,21168.08,0.0,0.0,10001,Assistant,Black,5,3,Bachelor,0.0,1242.3542771853845
+565,DOT,Department of Transportation,Transit Silver Spring Ride On,M,69604.0,13116.6,80.32,95113,Senior,Native American,2,10,Ph.D,4610.889999999999,385091.5011233065
+566,TBS,Department of Technology and Enterprise Business Solutions,ODT Geographic Information System,F,96362.25,0.0,2233.14,19102,Manager,Native American,4,8,High School,558.285,9562.121430451632
+567,REC,Department of Recreation,Countywide Programs,F,60000.0,0.0,0.0,10001,Junior,White,5,7,Master,0.0,1242.3542771853845
+568,HHS,Department of Health and Human Services,Children Youth and Family Services Division,F,53961.1,0.0,0.0,19102,Senior,White,3,9,High School,0.0,1242.3542771853845
+569,OCP,Office of Consumer Protection,Operations,M,132938.89,0.0,0.0,10001,Assistant,Black,4,8,Ph.D,0.0,-32.96794059444101
+570,TBS,Department of Technology and Enterprise Business Solutions,ODT Geographic Information System,M,128483.0,0.0,1772.64,75201,Manager,Pacific Islander,2,9,Ph.D,443.16,36981.95970035088
+571,COR,Correction and Rehabilitation,DS MCCF Unit 1 Security,F,63721.0,6450.9,0.0,10001,Junior,Native American,3,9,Master,2257.815,34889.13876029318
+572,HCA,Department of Housing and Community Affairs,Management Services,M,75908.72,0.0,0.0,60601,Junior,Asian,3,5,High School,0.0,-32.96794059444101
+573,DOT,Department of Transportation,Highway Services,M,61939.79,0.0,0.0,78201,Senior,White,4,4,Ph.D,0.0,-32.96794059444101
+574,DOT,Department of Transportation,Highway Services,M,56995.42,10166.19,0.0,19102,Manager,Hispanic,4,6,Ph.D,3558.1665,297162.797769162
+575,HHS,Department of Health and Human Services,Office of Eligibility and Support Services,M,45435.15,0.0,0.0,19102,Senior,White,3,9,Master,0.0,-32.96794059444101
+576,POL,Department of Police,CRB Community Engagement Division Community Resource Section,M,95112.0,5787.76,3304.47,75201,Senior,Pacific Islander,3,1,High School,2851.8335,238166.3520488537
+577,REC,Department of Recreation,Southern Region,F,116721.84,0.0,0.0,10001,Junior,Pacific Islander,5,4,Ph.D,0.0,1242.3542771853845
+578,HHS,Department of Health and Human Services,Child Welfare Services,F,106250.0,0.0,3164.72,92101,Senior,Hispanic,1,10,Master,791.18,13032.80785613017
+579,POL,Department of Police,PSB 3rd District Patrol,M,57085.0,6133.5,0.0,10001,Manager,White,5,7,Master,2146.725,179272.18265965904
+580,TBS,Department of Technology and Enterprise Business Solutions,CIO System Center Configuration Management,M,102000.0,0.0,0.0,78201,Senior,Native American,5,8,Ph.D,0.0,-32.96794059444101
+581,FIN,Department of Finance,Operations and Administration - Risk Management,F,92211.0,0.0,0.0,78201,Junior,White,1,8,Ph.D,0.0,1242.3542771853845
+582,DGS,Department of General Services,Contracting and Accounts Payable,F,101350.0,0.0,1453.28,90001,Junior,Black,4,5,High School,363.32,6656.681730233009
+583,DPS,Department of Permitting Services,Commercial Structural and Complex Structures,M,86733.95,3801.0,0.0,92101,Senior,Hispanic,1,10,Ph.D,1330.35,111084.48170994173
+584,FRS,Fire and Rescue Services,Station 28,M,59830.0,7152.32,0.0,78201,Assistant,Asian,4,10,Master,2503.312,209056.10269463912
+585,FIN,Department of Finance,FIN 32 Payroll,F,72930.0,0.0,2172.56,85001,Assistant,Pacific Islander,2,8,High School,543.14,9336.42510413762
+586,DGS,Department of General Services,Fleet Management Fleet Services,M,83931.0,4090.88,0.0,19102,Manager,Black,5,7,Ph.D,1431.808,119558.7585593754
+587,ABS,Alcohol Beverage Services,Olney,M,67966.19,0.0,0.0,90001,Manager,Hispanic,5,4,Master,0.0,-32.96794059444101
+588,HHS,Department of Health and Human Services,Children Youth and Family Services Division,F,67889.46,0.0,0.0,95113,Senior,Other,4,2,Bachelor,0.0,1242.3542771853845
+589,FRS,Fire and Rescue Services,Rescue 2,M,56980.0,23293.47,0.0,90001,Manager,Pacific Islander,2,2,High School,8152.7145,680922.3017019404
+590,FRS,Fire and Rescue Services,Station 14,M,87356.0,1764.43,0.0,92101,Assistant,Native American,2,1,High School,617.5504999999999,51547.921742882405
+591,COR,Correction and Rehabilitation,DS MCDC Custody and Security,M,78333.0,3876.96,0.0,78201,Junior,Other,2,7,Ph.D,1356.936,113305.0766784907
+592,FRS,Fire and Rescue Services,Human Resources Division,M,171146.0,0.0,12100.4,10001,Senior,Native American,3,7,Bachelor,3025.1,252638.4320201956
+593,DPS,Department of Permitting Services,Land Development Sediment and Stormwater Inspection,M,88244.1,0.0,0.0,92101,Assistant,Other,3,2,Ph.D,0.0,-32.96794059444101
+594,FRS,Fire and Rescue Services,Community Emergency Response Team (CERT),M,92211.0,0.0,0.0,85001,Assistant,Other,4,2,Ph.D,0.0,-32.96794059444101
+595,DOT,Department of Transportation,Highway Services,M,55734.75,17207.22,0.0,78201,Assistant,Asian,4,10,Bachelor,6022.527,502998.4453652985
+596,FRS,Fire and Rescue Services,Station 25,M,55052.0,7036.85,0.0,78201,Senior,Black,5,1,Master,2462.8975,205680.4826180416
+597,LIB,Department of Public Libraries,Gaithersburg Library,F,23454.75,0.0,0.0,75201,Junior,Hispanic,2,10,High School,0.0,1242.3542771853845
+598,DPS,Department of Permitting Services,Zoning and Site Plan Compliance,F,88893.08,0.0,0.0,10001,Junior,White,3,3,Ph.D,0.0,1242.3542771853845
+599,CEC,Community Engagement Cluster,Wheaton Urban District,M,48981.06,2156.28,0.0,60601,Assistant,Other,1,9,Bachelor,754.698,63003.16316502464
+600,DOT,Department of Transportation,Highway Services,M,52028.44,6692.13,0.0,78201,Junior,Other,4,1,Ph.D,2342.2455,195603.0274105875
+601,LIB,Department of Public Libraries,Bethesda Library,M,63425.0,0.0,3835.52,95113,Senior,Other,5,6,Master,958.88,80057.45948144194
+602,HHS,Department of Health and Human Services,Behavioral Health and Crisis Services Division,F,87790.81,0.0,0.0,92101,Assistant,Asian,3,9,High School,0.0,1242.3542771853845
+603,POL,Department of Police,FSB Traffic Division School Safety Section,F,72930.0,0.0,2050.56,90001,Senior,White,2,2,Ph.D,512.64,8881.902954743278
+604,POL,Department of Police,POL 47 MSB Communications Division,F,42601.0,0.0,0.0,90001,Manager,Other,5,8,Ph.D,0.0,1242.3542771853845
+605,HHS,Department of Health and Human Services,Child Welfare Services,F,163330.8,0.0,0.0,10001,Assistant,Black,3,5,Bachelor,0.0,1242.3542771853845
+606,OAS,Office of Animal Services,Animal Services Division,F,43805.97,2293.7,0.0,92101,Junior,White,2,6,Ph.D,802.7949999999998,13205.898832038867
+607,ABS,Alcohol Beverage Services,Beer Warehouse Operations,M,60555.0,10164.53,1253.36,60601,Assistant,Hispanic,2,6,Ph.D,3870.9255,323285.98522753915
+608,COR,Correction and Rehabilitation,DS MCCF Unit 1 Security,M,80800.0,6809.65,0.0,60601,Assistant,White,1,1,Ph.D,2383.3775,199038.57665629417
+609,REC,Department of Recreation,Aquatic Team Management,M,73439.73,1974.96,0.0,10001,Manager,White,5,2,Master,691.236,57702.501241679405
+610,HHS,Department of Health and Human Services,Behavioral Health and Crisis Services Division,F,106250.0,18747.6,0.0,10001,Assistant,Native American,1,10,Master,6561.659999999999,99026.6102376733
+611,POL,Department of Police,PSB 3rd District Patrol,M,55154.0,2779.47,0.0,85001,Assistant,Asian,1,2,Master,972.8144999999998,81221.33823677353
+612,HHS,Department of Health and Human Services,Children Youth and Family Services Division,F,101350.0,0.0,0.0,10001,Assistant,Asian,3,9,Bachelor,0.0,1242.3542771853845
+613,POL,Department of Police,POL 47 MSB Training and Education Division,F,17415.5,0.0,0.0,77001,Senior,Hispanic,2,3,Bachelor,0.0,1242.3542771853845
+614,DGS,Department of General Services,Fleet Management Fleet Services,M,106250.0,4572.5,0.0,19102,Assistant,Other,2,8,High School,1600.375,133638.3129136746
+615,FRS,Fire and Rescue Services,Station 22,M,81546.0,1198.7,0.0,10001,Junior,Pacific Islander,1,6,Master,419.545,35009.517430649365
+616,FRS,Fire and Rescue Services,FRS 45 Station 18,M,117435.0,13898.74,3781.15,77001,Junior,Other,2,4,Ph.D,5809.8465,485234.31205421424
+617,COR,Correction and Rehabilitation,DS MCDC Central Processing Unit,M,83913.0,19423.83,0.0,10001,Senior,Pacific Islander,3,7,Master,6798.3405,567798.2480671861
+618,FRS,Fire and Rescue Services,Station 11,M,87356.0,9057.46,3035.76,19102,Manager,White,5,10,Master,3929.051,328140.9161251693
+619,COR,Correction and Rehabilitation,DS MCCF Case Managers Unit 3,F,60088.66,0.0,0.0,95113,Manager,Native American,3,7,Ph.D,0.0,1242.3542771853845
+620,HHS,Department of Health and Human Services,HHS 60 Children Youth and Family Services Division,F,86817.49,0.0,0.0,85001,Senior,Native American,2,9,Bachelor,0.0,1242.3542771853845
+621,COR,Correction and Rehabilitation,DS MCDC Custody and Security,M,120190.0,1379.32,5611.48,19102,Senior,Other,1,1,Master,1885.632,157464.3965269816
+622,POL,Department of Police,PSB 4th District Patrol,M,95112.0,4242.09,6724.51,19102,Assistant,Asian,1,7,Ph.D,3165.859,264395.323887268
+623,COR,Correction and Rehabilitation,MSD Fiscal Services,F,101350.0,0.0,0.0,92101,Senior,Native American,3,9,Bachelor,0.0,1242.3542771853845
+624,POL,Department of Police,CRB Community Engagement Division Community Resource Section,M,91894.0,8898.32,0.0,90001,Senior,Native American,5,10,Master,3114.412,260098.2145309549
+625,POL,Department of Police,CRB Community Engagement Division Community Resource Section,F,95112.0,4302.55,3304.47,90001,Junior,White,2,1,Bachelor,2332.01,35994.819772565745
+626,ABS,Alcohol Beverage Services,Liquor and WIne Loading,M,40392.95,2722.56,0.0,10001,Junior,Pacific Islander,2,7,Master,952.896,79557.64603482353
+627,HHS,Department of Health and Human Services,Child Welfare Services,F,63425.0,0.0,3835.52,10001,Assistant,Pacific Islander,3,9,Bachelor,958.88,15531.93455952136
+628,HHS,Department of Health and Human Services,Office of Eligibility and Support Services,F,140597.65,0.0,0.0,78201,Assistant,Black,3,10,Bachelor,0.0,1242.3542771853845
+629,FRS,Fire and Rescue Services,Station 31,M,95340.0,19272.83,0.0,85001,Senior,Other,3,2,High School,6745.4905,563383.9531718346
+630,DOT,Department of Transportation,DOT 50 Transit Gaithersburg Ride On,M,45634.8,1122.15,0.0,92101,Senior,Hispanic,5,9,Master,392.7525,32771.67455489337
+631,CEX,Offices of the County Executive,Chief Administrative Officer's Office,F,60932.55,0.0,0.0,92101,Senior,Pacific Islander,3,1,High School,0.0,1242.3542771853845
+632,DOT,Department of Transportation,Transit Nicholson Ride On,M,69159.1,10058.89,0.0,92101,Manager,Hispanic,5,4,Bachelor,3520.6114999999995,294026.0173567698
+633,ABS,Alcohol Beverage Services,Liquor and Wine Delivery Operations,M,64429.1,4451.91,0.0,78201,Assistant,Asian,5,1,Bachelor,1558.1684999999998,130113.01608300944
+634,CEC,Community Engagement Cluster,Regional Services Centers,M,145000.0,0.0,0.0,92101,Assistant,Asian,1,8,Master,0.0,-32.96794059444101
+635,FIN,Department of Finance,FIN 32 General Accounting,M,99852.0,0.0,0.0,78201,Senior,White,1,9,Ph.D,0.0,-32.96794059444101
+636,POL,Department of Police,MSB Training and Education Division,M,99865.0,11339.57,3469.57,77001,Senior,Other,3,7,High School,4836.242,403914.02114709554
+637,DOT,Department of Transportation,Transit Management Services,F,101350.0,0.0,0.0,78201,Assistant,Other,4,5,High School,0.0,1242.3542771853845
+638,FRS,Fire and Rescue Services,Station 24,M,73548.0,0.0,0.0,19102,Manager,White,2,4,Bachelor,0.0,-32.96794059444101
+639,POL,Department of Police,PSB 4th District Patrol,F,71051.79,9296.78,0.0,90001,Senior,Hispanic,2,8,High School,3253.873,49732.759189192526
+640,DOT,Department of Transportation,Transit Gaithersburg Ride On,M,76419.0,25169.2,0.0,85001,Senior,Other,4,6,High School,8809.22,735756.9067619245
+641,POL,Department of Police,FSB Security Services Division,M,69604.0,224.91,0.0,78201,Manager,Native American,5,8,Ph.D,78.71849999999999,6541.992754196953
+642,POL,Department of Police,ISB Special Victims Investigations Division Exploitation and Registry,M,95112.0,30651.66,3304.47,78201,Assistant,Hispanic,4,7,Ph.D,11554.1985,965031.1656152748
+643,ABS,Alcohol Beverage Services,Beer Delivery Operations,M,69604.0,4356.14,4207.77,90001,Senior,Asian,2,2,Master,2576.5915000000005,215176.7710538428
+644,DGS,Department of General Services,Fleet Management Fleet Services,M,75701.36,0.0,0.0,95113,Senior,Asian,3,6,High School,0.0,-32.96794059444101
+645,HHS,Department of Health and Human Services,Behavioral Health and Crisis Services Division,M,186000.0,0.0,0.0,10001,Assistant,Black,5,8,High School,0.0,-32.96794059444101
+646,ABS,Alcohol Beverage Services,Fallsgrove,M,55865.63,170.69,0.0,19102,Senior,Pacific Islander,5,10,High School,59.7415,4956.939315614456
+647,POL,Department of Police,PSB 3rd District Patrol,M,62037.0,3617.13,0.0,77001,Junior,Other,2,4,High School,1265.9955,105709.273746973
+648,DOT,Department of Transportation,DOT 50 Transit Safety and Instruction,F,101350.0,0.0,2013.44,90001,Junior,Asian,2,10,Bachelor,503.36,8743.609002402967
+649,TBS,Department of Technology and Enterprise Business Solutions,OBP Fibernet Operations (GF),M,152785.0,759.89,0.0,19102,Senior,Pacific Islander,1,4,Bachelor,265.9615,22181.459529793858
+650,FRS,Fire and Rescue Services,Station 40,M,96088.0,24311.53,3339.7,75201,Assistant,Hispanic,5,3,Bachelor,9343.9605,780421.0933179831
+651,ABS,Alcohol Beverage Services,Liquor and WIne Loading,M,43271.0,947.22,0.0,75201,Assistant,Pacific Islander,2,1,High School,331.527,27657.81623672228
+652,HHS,Department of Health and Human Services,Child Welfare Services,F,55771.0,0.0,0.0,85001,Senior,Other,1,10,Ph.D,0.0,1242.3542771853845
+653,FRS,Fire and Rescue Services,Station 28,M,96088.0,12295.37,0.0,60601,Junior,Hispanic,3,1,Master,4303.3795,359406.69449290016
+654,CAT,County Attorney's Office,Finance and Procurement,F,101350.0,0.0,1398.4,60601,Manager,Other,2,9,High School,349.6,6452.221274833325
+655,REC,Department of Recreation,Countywide Programs,F,84695.99,0.0,0.0,90001,Assistant,Native American,5,1,Ph.D,0.0,1242.3542771853845
+656,FRS,Fire and Rescue Services,Station 31,M,75522.0,46865.38,0.0,78201,Assistant,White,2,4,High School,16402.882999999998,1370017.4141965387
+657,HHS,Department of Health and Human Services,Office of Eligibility and Support Services,M,51297.0,0.0,0.0,75201,Manager,Hispanic,5,4,Master,0.0,-32.96794059444101
+658,COR,Correction and Rehabilitation,DS Food Services,M,57909.51,10127.66,0.0,60601,Assistant,Asian,3,10,Bachelor,3544.681,296036.4217273217
+659,HHS,Department of Health and Human Services,Aging & Disability Services Division,M,87969.0,0.0,1419.84,85001,Manager,Native American,3,8,Ph.D,354.96,29615.05696108881
+660,FRS,Fire and Rescue Services,Station 24,M,68658.0,30139.13,0.0,60601,Assistant,Native American,4,8,Bachelor,10548.6955,881046.5533132766
+661,FRS,Fire and Rescue Services,Station 25,M,64091.0,41660.7,0.0,19102,Junior,White,1,1,Master,14581.244999999995,1217865.1469386716
+662,OAG,Office of Agriculture,Agricultural Services,F,82803.89,0.0,0.0,92101,Assistant,Asian,1,7,Master,0.0,1242.3542771853845
+663,LIB,Department of Public Libraries,Technology Management,M,125975.63,0.0,0.0,95113,Junior,Other,3,4,High School,0.0,-32.96794059444101
+664,POL,Department of Police,MSB Training and Education Division,F,82882.0,5558.21,0.0,19102,Junior,Black,2,6,High School,1945.3735,30233.021313080302
+665,COR,Correction and Rehabilitation,DS Health Services,F,116825.0,249.02,0.0,75201,Manager,Other,1,4,High School,87.157,2541.199751767768
+666,FRS,Fire and Rescue Services,Field Recruits,M,48942.0,566.24,0.0,75201,Junior,Native American,1,8,Ph.D,198.184,16520.345579563305
+667,HHS,Department of Health and Human Services,Children Youth and Family Services Division,F,121731.4,0.0,0.0,75201,Assistant,Hispanic,1,6,High School,0.0,1242.3542771853845
+668,POL,Department of Police,PSB 6th District Patrol,M,67420.0,897.6,0.0,90001,Manager,Hispanic,4,8,Master,314.16,26207.23800687235
+669,BOE,Board of Elections,Registration Services,M,66329.51,0.0,0.0,92101,Senior,Asian,1,10,Ph.D,0.0,-32.96794059444101
+670,HHS,Department of Health and Human Services,Public Health Services Division,M,70000.0,0.0,0.0,60601,Senior,Black,3,9,Bachelor,0.0,-32.96794059444101
+671,POL,Department of Police,MSB Information Mgmt and Tech Division Records Management Section,M,101350.0,132619.66,0.0,19102,Manager,White,5,4,Master,46416.881,3876935.8278292622
+672,FIN,Department of Finance,Tax Operations,F,128482.0,0.0,0.0,78201,Assistant,Hispanic,2,8,Master,0.0,1242.3542771853845
+673,COR,Correction and Rehabilitation,DS MCCF Unit 2 Security,F,48073.0,17671.29,0.0,95113,Assistant,Hispanic,3,2,High School,6184.9515,93412.76246340714
+674,HHS,Department of Health and Human Services,Chief Operating Officer Division,M,116825.0,0.0,0.0,95113,Senior,Other,5,7,High School,0.0,-32.96794059444101
+675,FRS,Fire and Rescue Services,Station 4,M,64091.0,21100.07,0.0,60601,Manager,Native American,5,2,Ph.D,7385.024499999999,616801.0141293315
+676,FRS,Fire and Rescue Services,Emergency Medical & Integrated Healthcare Services,M,119197.0,144565.17,8427.91,60601,Senior,Other,2,1,High School,52704.787,4402133.015307974
+677,FRS,Fire and Rescue Services,Field Relief Personnel,M,119197.0,121581.74,8429.2,78201,Assistant,Native American,1,1,Ph.D,44660.909,3730268.311538248
+678,POL,Department of Police,PSB 3rd District Patrol,F,55154.0,4226.37,0.0,77001,Junior,Native American,3,7,Master,1479.2295,23286.37302431714
+679,DEP,Department of Environmental Protection,Waste Reduction and Recycling,F,146923.0,0.0,0.0,78201,Manager,Hispanic,3,6,High School,0.0,1242.3542771853845
+680,POL,Department of Police,ISB Criminal Investigations Division 3rd District Investigative Section,M,85783.0,2141.91,0.0,19102,Manager,Other,3,7,Bachelor,749.6684999999999,62583.07430644052
+681,SHF,Sheriff's Office,SHF 48 Court and Transport,M,50990.0,0.0,0.0,60601,Assistant,Black,1,4,High School,0.0,-32.96794059444101
+682,HHS,Department of Health and Human Services,School Health Services,F,49085.39,1112.18,0.0,95113,Assistant,White,2,8,Master,389.263,7043.293799798171
+683,POL,Department of Police,PSB 5th District Patrol,M,95112.0,6353.55,2295.27,19102,Senior,White,5,3,Bachelor,2797.56,233633.15935248928
+684,COR,Correction and Rehabilitation,PTS Pre-Trial Services,F,66446.0,0.0,1980.16,78201,Senior,Other,3,3,High School,495.04,8619.621320994413
+685,FRS,Fire and Rescue Services,Third Battalion - Administration,M,88999.0,33954.69,0.0,90001,Assistant,Other,5,3,Master,11884.1415,992589.6462331924
+686,FRS,Fire and Rescue Services,Station 10,M,84401.0,8709.66,0.0,92101,Assistant,Black,1,3,Bachelor,3048.381,254582.9769484581
+687,FRS,Fire and Rescue Services,Station 22,M,84401.0,10088.03,0.0,75201,Manager,Asian,1,1,Bachelor,3530.8105,294877.8885703496
+688,DOT,Department of Transportation,Transit Gaithersburg Ride On,M,45634.8,6296.79,0.0,77001,Manager,Pacific Islander,3,4,Master,2203.8765,184045.7602322547
+689,DPS,Department of Permitting Services,DPS 75 Information Technology Services,M,135000.0,0.0,0.0,92101,Senior,White,1,6,High School,0.0,-32.96794059444101
+690,HHS,Department of Health and Human Services,Office of Eligibility and Support Services,F,102452.62,0.0,0.0,60601,Assistant,Other,3,1,Master,0.0,1242.3542771853845
+691,FRS,Fire and Rescue Services,Station 18,M,96088.0,51227.13,0.0,85001,Assistant,Asian,3,9,Bachelor,17929.495499999997,1497527.6841289843
+692,LIB,Department of Public Libraries,Marilyn J Praisner Library,M,19513.51,0.0,0.0,10001,Manager,Pacific Islander,3,5,High School,0.0,-32.96794059444101
+693,DOT,Department of Transportation,Transit Gaithersburg Ride On,F,50596.22,12805.56,0.0,10001,Assistant,Black,5,9,Bachelor,4481.946,68033.95196208297
+694,POL,Department of Police,PSB 6th District Patrol,M,64209.0,3332.8,0.0,90001,Senior,White,4,5,Bachelor,1166.48,97397.24416024926
+695,POL,Department of Police,FSB Traffic Division Alcohol Initiatives Section,M,95112.0,9769.84,1408.44,90001,Senior,Hispanic,1,8,Ph.D,3771.554,314985.98323712446
+696,SHF,Sheriff's Office,Warrant Section,M,72843.0,879.37,0.0,92101,Junior,Other,4,9,Ph.D,307.7795,25674.306907917
+697,HHS,Department of Health and Human Services,Child Welfare Services,F,70056.61,0.0,0.0,19102,Assistant,Hispanic,4,1,High School,0.0,1242.3542771853845
+698,OAS,Office of Animal Services,Animal Services Division,F,87969.0,2557.71,1820.16,77001,Senior,Black,5,5,Bachelor,1350.2385,21364.10198915237
+699,SHF,Sheriff's Office,Child Support,M,92679.0,1692.33,0.0,75201,Manager,Hispanic,4,5,High School,592.3154999999999,49440.16901470465
+700,HHS,Department of Health and Human Services,School Health Services,F,45821.07,1381.11,0.0,95113,Manager,Pacific Islander,1,10,Master,483.3884999999999,8445.986408742996
+701,POL,Department of Police,MSB Communications Division,F,53350.82,6128.87,0.0,95113,Assistant,Pacific Islander,4,1,Master,2145.1045,33209.485687528875
+702,POL,Department of Police,POL 47 PSB 1st District Station,F,82691.0,0.0,191.04,10001,Junior,Other,2,9,High School,47.76,1954.091256040263
+703,POL,Department of Police,POL 47 MSB Training and Education Division,F,17758.59,0.0,0.0,19102,Manager,Other,2,4,Bachelor,0.0,1242.3542771853845
+704,FRS,Fire and Rescue Services,Emergency Medical & Integrated Healthcare Services,M,85866.6,0.0,0.0,95113,Senior,White,4,8,Ph.D,0.0,-32.96794059444101
+705,COR,Correction and Rehabilitation,DS MCCF Unit 1 Security,F,63721.0,5713.54,0.0,19102,Junior,Native American,3,5,Master,1999.739,31043.19586760156
+706,LIB,Department of Public Libraries,Quince Orchard Library,F,59365.47,0.0,0.0,10001,Assistant,Hispanic,3,2,Master,0.0,1242.3542771853845
+707,HHS,Department of Health and Human Services,School Health Services,F,86740.01,0.0,0.0,60601,Manager,Pacific Islander,1,2,High School,0.0,1242.3542771853845
+708,LIB,Department of Public Libraries,LIB 71 Olney Library,F,31244.0,0.0,342.76,85001,Junior,Black,5,5,Ph.D,85.69,2519.337981500178
+709,POL,Department of Police,PSB 5th District Patrol,F,64209.0,7515.84,0.0,90001,Junior,White,1,5,Bachelor,2630.544,40443.68257083756
+710,DOT,Department of Transportation,Commuter Services,F,92211.0,0.0,106.4,75201,Junior,Other,4,3,Master,26.6,1638.7572009194666
+711,FIN,Department of Finance,Financial Analysis Audit and Compliance,M,109761.0,0.0,0.0,85001,Junior,Pacific Islander,2,2,Bachelor,0.0,-32.96794059444101
+712,FRS,Fire and Rescue Services,Station 20,M,64091.0,22344.94,0.0,90001,Senior,Pacific Islander,2,2,Ph.D,7820.728999999999,653193.2213238758
+713,DGS,Department of General Services,Fleet Management Fleet Services,M,83931.0,0.0,0.0,95113,Assistant,Hispanic,4,9,Bachelor,0.0,-32.96794059444101
+714,DGS,Department of General Services,Fleet Management Fleet Services,M,83931.0,491.38,2500.16,95113,Manager,Pacific Islander,2,3,High School,797.0229999999999,66538.35770515236
+715,OAG,Office of Agriculture,Soil Conservation,M,142549.21,0.0,0.0,92101,Assistant,Native American,2,5,Bachelor,0.0,-32.96794059444101
+716,FRS,Fire and Rescue Services,Station 26,M,56980.0,2486.52,0.0,95113,Manager,Hispanic,3,9,Master,870.2819999999999,72657.3138023814
+717,SHF,Sheriff's Office,Sheriff Domestic Violence,F,72930.0,1375.85,2172.56,75201,Manager,White,3,8,Bachelor,1024.6875,16512.62198071048
+718,HHS,Department of Health and Human Services,School Health Services,F,80982.2,2082.72,0.0,95113,Manager,Pacific Islander,3,10,Ph.D,728.9519999999999,12105.46345244128
+719,DHS,Office of Emergency Management and Homeland Security,Operations and Training,M,110098.79,0.0,0.0,90001,Senior,Asian,4,7,Ph.D,0.0,-32.96794059444101
+720,FIN,Department of Finance,General Accounting,F,101350.0,0.0,0.0,85001,Manager,Other,1,5,High School,0.0,1242.3542771853845
+721,COR,Correction and Rehabilitation,DS MCDC Central Processing Unit,M,78959.0,10267.8,0.0,77001,Manager,White,2,3,Ph.D,3593.73,300133.2381951002
+722,POL,Department of Police,PSB 3rd District Patrol,M,80077.0,7769.32,0.0,60601,Senior,White,1,8,Bachelor,2719.262,227093.32090941968
+723,LIB,Department of Public Libraries,Olney Library,F,31663.89,0.0,0.0,78201,Junior,Asian,1,1,High School,0.0,1242.3542771853845
+724,HHS,Department of Health and Human Services,Child Welfare Services,F,63425.0,0.0,0.0,75201,Senior,Native American,3,5,Master,0.0,1242.3542771853845
+725,LIB,Department of Public Libraries,Rockville Library,F,61101.27,0.0,0.0,60601,Assistant,Pacific Islander,1,10,Bachelor,0.0,1242.3542771853845
+726,LIB,Department of Public Libraries,Marilyn J Praisner Library,F,80782.9,0.0,0.0,95113,Assistant,Asian,2,3,Ph.D,0.0,1242.3542771853845
+727,POL,Department of Police,PSB 2nd District Special Assignment Team,M,95112.0,12831.17,0.0,10001,Manager,White,4,3,Ph.D,4490.9095,375070.13293614064
+728,DOT,Department of Transportation,Transit Gaithersburg Ride On,M,58060.91,8871.24,0.0,60601,Senior,Pacific Islander,5,4,Ph.D,3104.934,259306.5648238945
+729,HCA,Department of Housing and Community Affairs,Community Development Neighborhood Revitalization,F,111407.0,0.0,6735.04,90001,Manager,Hispanic,4,4,Bachelor,1683.76,26334.36130224172
+730,HHS,Department of Health and Human Services,Office of Eligibility and Support Services,F,63425.0,0.0,3835.52,85001,Manager,Other,5,8,High School,958.88,15531.93455952136
+731,FRS,Fire and Rescue Services,Station 35,M,84401.0,50.73,0.0,77001,Assistant,Black,3,10,Bachelor,17.755499999999998,1450.0597417974818
+732,POL,Department of Police,POL 47 FSB Traffic Division School Safety Section,F,25302.14,0.0,0.0,95113,Manager,Hispanic,3,2,Master,0.0,1242.3542771853845
+733,HHS,Department of Health and Human Services,Office of Eligibility and Support Services,F,87969.0,0.0,1620.0,92101,Junior,Native American,3,6,Ph.D,405.0,7277.8123265200975
+734,HHS,Department of Health and Human Services,HHS 60 Public Health Services Division,F,53125.0,0.0,2140.71,95113,Senior,Native American,2,10,Bachelor,535.1775,9217.765018414591
+735,DOT,Department of Transportation,Transit Gaithersburg Ride On,M,45634.8,5023.06,0.0,85001,Senior,Hispanic,1,6,Master,1758.071,146809.86727161868
+736,FRS,Fire and Rescue Services,Station 13,M,96088.0,5493.73,0.0,77001,Manager,Native American,2,3,Master,1922.8055,160569.31216165234
+737,POL,Department of Police,PSB 6th District Patrol,M,66458.0,220.4,0.0,60601,Senior,Other,5,1,Master,77.14,6410.148582156985
+738,POL,Department of Police,FSB Security Services Division,F,69604.0,1211.62,0.0,90001,Assistant,Pacific Islander,4,7,Master,424.067,7561.955730536555
+739,LIB,Department of Public Libraries,Gaithersburg Library,F,23654.7,0.0,0.0,78201,Assistant,Pacific Islander,2,3,High School,0.0,1242.3542771853845
+740,FRS,Fire and Rescue Services,Station 25,M,68658.0,17741.5,0.0,75201,Manager,Other,4,10,Ph.D,6209.525,518617.4485221752
+741,HHS,Department of Health and Human Services,School Health Services,F,82187.83,467.16,0.0,60601,Senior,Other,5,3,High School,163.506,3678.980459443463
+742,FRS,Fire and Rescue Services,Fleet Operations,M,78968.89,8963.29,0.0,19102,Junior,White,3,6,Master,3137.1515,261997.5306855972
+743,TBS,Department of Technology and Enterprise Business Solutions,CIO Management Services,F,80086.0,0.0,4842.24,77001,Senior,Hispanic,3,8,High School,1210.56,19282.56192213015
+744,HCA,Department of Housing and Community Affairs,Housing Landlord and Tenant Mediation,F,86668.31,0.0,0.0,77001,Senior,Native American,4,1,Ph.D,0.0,1242.3542771853845
+745,POL,Department of Police,ISB Special Victims Investigations Division Child Abuse and Missing Children,F,95112.0,4723.21,0.0,92101,Assistant,Other,5,5,Master,1653.1235,25877.80497994927
+746,POL,Department of Police,MSB Communications Division,M,75436.03,9699.11,0.0,77001,Junior,Black,3,3,Bachelor,3394.6885,283508.30200942187
+747,ABS,Alcohol Beverage Services,Special Order Liquor and Wine Warehouse Operations,M,49209.7,7506.78,0.0,78201,Manager,White,2,10,High School,2627.373,219418.29453971385
+748,DOT,Department of Transportation,Transportation Engineering Administration,M,116825.0,0.0,3479.84,77001,Junior,Asian,4,1,Bachelor,869.96,72630.41876063489
+749,DOT,Department of Transportation,Traffic Engineering Studies Section,M,63578.83,1371.19,0.0,92101,Junior,Native American,5,2,Master,479.9165,40052.04542071013
+750,FRS,Fire and Rescue Services,Fifth Battalion - Administration,M,102133.0,53284.0,0.0,78201,Junior,Pacific Islander,2,7,High School,18649.4,1557657.689038929
+751,POL,Department of Police,CRB Community Engagement Division Community Resource Section,M,95112.0,361.95,6724.51,10001,Manager,Native American,2,2,Ph.D,1807.81,150964.31597171116
+752,DOT,Department of Transportation,DOT 50 Transit Silver Spring Ride On,M,55268.47,1689.2,0.0,77001,Junior,Native American,4,7,High School,591.22,49348.66740528446
+753,TBS,Department of Technology and Enterprise Business Solutions,ODT Integrated Justice Information Systems,M,128483.0,0.0,0.0,60601,Senior,White,5,4,Master,0.0,-32.96794059444101
+754,COR,Correction and Rehabilitation,DS Health Services,F,77805.0,28.06,0.0,85001,Assistant,Black,5,9,High School,9.821,1388.7104092903626
+755,DGS,Department of General Services,Fleet Automotive Heavy Equipment,M,83931.0,2876.76,0.0,60601,Assistant,Other,5,3,High School,1006.866,84065.48890146722
+756,ABS,Alcohol Beverage Services,ABS 85 Darnestown,M,48444.0,35.04,953.73,90001,Manager,Pacific Islander,5,1,Master,250.6965,20906.450796065565
+757,POL,Department of Police,MSB Personnel Division Administration,F,101350.0,0.0,2013.44,60601,Manager,Native American,3,2,Master,503.36,8743.609002402967
+758,DOT,Department of Transportation,Transit Gaithersburg Ride On,M,47231.51,11271.28,0.0,85001,Assistant,Other,2,7,Bachelor,3944.948,329468.7126426982
+759,DOT,Department of Transportation,Transit Silver Spring Ride On,M,61454.0,13303.68,0.0,85001,Senior,Asian,5,6,High School,4656.288,388883.3679096673
+760,FRS,Fire and Rescue Services,Station 12,M,68658.0,23230.75,0.0,85001,Junior,Pacific Islander,1,6,Master,8130.7625,679088.7614646129
+761,ABS,Alcohol Beverage Services,Beer Loading,M,40841.1,2424.0,0.0,78201,Assistant,Asian,5,4,Master,848.4,70829.62031325971
+762,HHS,Department of Health and Human Services,Office of Eligibility and Support Services,F,82280.74,0.0,0.0,90001,Junior,White,1,6,High School,0.0,1242.3542771853845
+763,DOT,Department of Transportation,Transit Gaithersburg Ride On,F,69604.0,19877.76,2073.76,90001,Manager,Pacific Islander,3,1,Bachelor,7475.655999999999,112647.31274448746
+764,POL,Department of Police,PSB 2nd District Patrol,F,67420.0,2747.1,0.0,78201,Manager,Native American,2,2,Bachelor,961.485,15570.755221789304
+765,DGS,Department of General Services,Automation,F,118180.55,0.0,0.0,19102,Senior,Black,2,5,Bachelor,0.0,1242.3542771853845
+766,FRS,Fire and Rescue Services,Station 14,M,96088.0,44486.02,0.0,19102,Manager,Black,3,3,Ph.D,15570.106999999998,1300459.8201422112
+767,SHF,Sheriff's Office,Sheriff Domestic Violence,M,116075.0,1068.09,5419.68,92101,Junior,Black,1,7,Ph.D,1728.7515,144360.95678563463
+768,POL,Department of Police,ISB Special Victims Investigations Division Child Abuse and Missing Children,F,91894.0,5524.32,0.0,60601,Junior,Pacific Islander,1,3,Bachelor,1933.512,30056.256904062568
+769,LIB,Department of Public Libraries,Wheaton Library,F,23987.7,0.0,0.0,78201,Senior,Hispanic,3,8,High School,0.0,1242.3542771853845
+770,OHR,Office of Human Resources,Health Insurance Team,F,65500.23,792.57,0.0,78201,Assistant,Asian,4,3,Ph.D,277.3995,5376.263030658039
+771,LIB,Department of Public Libraries,LIB 71 Damascus Library,F,31712.5,0.0,1516.76,92101,Assistant,Hispanic,1,2,High School,379.19,6893.182271573606
+772,CAT,County Attorney's Office,County Attorney,M,220000.0,0.0,0.0,19102,Manager,Other,3,9,Master,0.0,-32.96794059444101
+773,DOT,Department of Transportation,Transportation Technical Center,M,67971.13,6148.61,0.0,85001,Manager,Asian,2,1,Bachelor,2152.0135,179713.9044866045
+774,FRS,Fire and Rescue Services,Station 22,M,71062.0,27757.36,0.0,92101,Manager,Pacific Islander,4,3,Ph.D,9715.076,811418.5059430694
+775,POL,Department of Police,PSB 2nd District Patrol,M,95112.0,18.1,6724.51,78201,Junior,White,2,5,Bachelor,1687.4625,140912.2941189522
+776,HHS,Department of Health and Human Services,Child Welfare Services,F,103762.07,0.0,0.0,78201,Assistant,Hispanic,4,9,Bachelor,0.0,1242.3542771853845
+777,POL,Department of Police,FSB Traffic Division School Safety Section,F,19984.65,0.0,0.0,92101,Junior,Asian,3,5,High School,0.0,1242.3542771853845
+778,DEP,Department of Environmental Protection,Director,F,80086.0,0.0,0.0,95113,Senior,Pacific Islander,4,2,Ph.D,0.0,1242.3542771853845
+779,POL,Department of Police,ISB Criminal Investigations Division Crime Laboratory Section,F,122514.0,0.0,0.0,10001,Assistant,Hispanic,4,2,High School,0.0,1242.3542771853845
+780,SHF,Sheriff's Office,Courthouse Security,M,61398.0,538.22,0.0,77001,Assistant,Other,1,6,High School,188.377,15701.216155935834
+781,HHS,Department of Health and Human Services,Office of Eligibility and Support Services,F,106250.0,777.96,0.0,10001,Junior,Other,4,7,High School,272.286,5300.059784398105
+782,POL,Department of Police,MSB Information Management and Technology Division,F,75216.51,11777.5,0.0,78201,Assistant,Other,2,10,Bachelor,4122.125,62671.767886108486
+783,FRS,Fire and Rescue Services,Station 23,M,65387.0,3922.61,0.0,90001,Assistant,Hispanic,3,6,Bachelor,1372.9135,114639.59695645624
+784,CEC,Community Engagement Cluster,Commission for Women,F,63330.9,0.0,0.0,90001,Manager,Black,3,10,Ph.D,0.0,1242.3542771853845
+785,HHS,Department of Health and Human Services,Services to End and Prevent Homelessness Division,F,70398.37,1193.08,0.0,90001,Manager,Black,4,5,Bachelor,417.578,7465.254280457214
+786,POL,Department of Police,PSB 2nd District Patrol,M,95112.0,4580.81,6724.51,75201,Senior,Other,1,4,Ph.D,3284.411,274297.3766485492
+787,HCA,Department of Housing and Community Affairs,Housing Landlord and Tenant Mediation,F,101586.2,0.0,0.0,95113,Senior,Native American,1,5,Ph.D,0.0,1242.3542771853845
+788,HHS,Department of Health and Human Services,HHS 60 School Health Services,F,39930.45,0.0,0.0,10001,Junior,Asian,2,2,High School,0.0,1242.3542771853845
+789,DOT,Department of Transportation,Traffic Engineering and Operations Management Services,F,111407.0,0.0,2213.12,10001,Junior,Native American,4,8,High School,553.28,9487.5350908543
+790,CEC,Community Engagement Cluster,Silver Spring Urban District,M,45865.91,25390.61,0.0,95113,Senior,White,3,2,Ph.D,8886.7135,742229.5493631151
+791,HHS,Department of Health and Human Services,HHS 60 Child Welfare Services,F,106250.0,0.0,0.0,77001,Assistant,Pacific Islander,5,7,Bachelor,0.0,1242.3542771853845
+792,HHS,Department of Health and Human Services,Children Youth and Family Services Division,F,100492.89,0.0,0.0,85001,Junior,Native American,1,5,Master,0.0,1242.3542771853845
+793,DEP,Department of Environmental Protection,Administration and Operations,F,189843.68,0.0,0.0,77001,Senior,Native American,3,9,Bachelor,0.0,1242.3542771853845
+794,NDA,Non-Departmental Account,MCERP,F,139521.44,0.0,0.0,85001,Junior,Other,3,9,Master,0.0,1242.3542771853845
+795,HHS,Department of Health and Human Services,Behavioral Health and Crisis Services Division,F,59114.26,8774.86,0.0,92101,Junior,Black,3,4,High School,3071.201,47010.51426872815
+796,CCL,County Council,CCL 01 Council Central Staff,F,101350.0,0.0,0.0,19102,Assistant,Pacific Islander,4,6,Master,0.0,1242.3542771853845
+797,ABS,Alcohol Beverage Services,Liquor and WIne Loading,M,60555.0,16483.23,3022.88,90001,Junior,Pacific Islander,5,7,Master,6524.8505,544955.0028272679
+798,TBS,Department of Technology and Enterprise Business Solutions,OBP Community Technology,M,92211.0,65.52,0.0,10001,Manager,Native American,5,7,Bachelor,22.932,1882.426771613696
+799,DGS,Department of General Services,Building Design and Construction,M,101350.0,0.0,0.0,92101,Junior,Asian,4,4,Master,0.0,-32.96794059444101
+800,HHS,Department of Health and Human Services,School Health Services,F,60903.5,2325.05,3880.29,95113,Manager,White,5,1,Bachelor,1783.84,27825.79004687732
+801,HHS,Department of Health and Human Services,Chief Operating Officer Division,M,111407.0,0.0,0.0,85001,Senior,Other,2,6,High School,0.0,-32.96794059444101
+802,COR,Correction and Rehabilitation,DS MCCF Unit 2 Security,M,73123.0,34385.38,0.0,95113,Manager,Other,5,9,Master,12034.882999999998,1005180.3261568936
+803,FRS,Fire and Rescue Services,Station 32,M,65387.0,66924.95,0.0,92101,Junior,Other,5,6,High School,23423.7325,1956433.68872598
+804,POL,Department of Police,PSB 3rd District Patrol,M,68785.0,2170.73,0.0,77001,Manager,Other,4,5,Ph.D,759.7555,63425.59072289105
+805,FIN,Department of Finance,Division of Fiscal Management,F,122514.0,0.0,3649.36,92101,Junior,Black,1,1,Ph.D,912.34,14838.378466642254
+806,POL,Department of Police,CRB Community Engagement Division Community Resource Section,F,95112.0,4521.89,6724.51,77001,Assistant,Pacific Islander,2,5,Master,3263.789,49880.53104602513
+807,CEC,Community Engagement Cluster,Gilchrist Center,F,48712.11,0.0,0.0,60601,Assistant,Pacific Islander,5,3,High School,0.0,1242.3542771853845
+808,HHS,Department of Health and Human Services,School Health Services,F,145086.06,0.0,0.0,77001,Assistant,White,5,7,High School,0.0,1242.3542771853845
+809,OMB,Office of Management and Budget,Director's Office,F,101350.0,0.0,0.0,85001,Manager,Hispanic,1,1,Ph.D,0.0,1242.3542771853845
+810,ABS,Alcohol Beverage Services,Administrative Services,F,61910.16,0.0,0.0,78201,Senior,Black,2,8,Ph.D,0.0,1242.3542771853845
+811,COR,Correction and Rehabilitation,DS MCDC Custody and Security,F,109262.0,12966.06,5101.56,10001,Senior,Other,1,7,High School,5813.511,87877.42035087897
+812,FRS,Fire and Rescue Services,Station 32,M,119197.0,41977.14,1244.01,85001,Assistant,Asian,3,3,Ph.D,15003.001499999998,1253092.347790731
+813,POL,Department of Police,ISB Special Victims Investigations Division Exploitation and Registry,M,95112.0,5363.08,2295.27,85001,Assistant,White,2,1,Ph.D,2450.8955,204678.0158756762
+814,HHS,Department of Health and Human Services,Children Youth and Family Services Division,F,80086.0,0.0,0.0,85001,Assistant,White,1,7,Master,0.0,1242.3542771853845
+815,FRS,Fire and Rescue Services,Station 21,M,55052.0,9627.26,0.0,90001,Junior,Hispanic,5,8,High School,3369.541,281407.8577165013
+816,DOT,Department of Transportation,Transit Silver Spring Ride On,M,92211.0,8162.86,0.0,19102,Manager,Hispanic,5,5,Bachelor,2857.001,238597.9673539006
+817,DGS,Department of General Services,Fleet Management Services,M,72930.0,1725.97,1508.88,85001,Senior,Black,3,10,Ph.D,981.3095,81930.88289403013
+818,ABS,Alcohol Beverage Services,"Licensure, Regulation and Education",F,147755.45,0.0,0.0,60601,Senior,Other,1,5,Ph.D,0.0,1242.3542771853845
+819,HHS,Department of Health and Human Services,Office of Eligibility and Support Services,F,57347.5,0.0,0.0,78201,Assistant,Black,4,1,High School,0.0,1242.3542771853845
+820,HHS,Department of Health and Human Services,Public Health Services Division,F,76419.0,0.0,1517.36,10001,Assistant,White,1,8,Bachelor,379.34,6895.417626406693
+821,DPS,Department of Permitting Services,Customer Support,F,83931.0,64.22,4288.64,75201,Manager,Black,4,9,Bachelor,1094.6370000000002,17555.035000023912
+822,FRS,Fire and Rescue Services,First Battalion - Administration,M,88999.0,33370.31,0.0,78201,Assistant,Asian,3,1,Master,11679.608499999998,975506.0326507718
+823,POL,Department of Police,FSB Traffic Division School Safety Section,F,22932.6,0.0,0.0,75201,Senior,Asian,4,3,High School,0.0,1242.3542771853845
+824,FRS,Fire and Rescue Services,FRS 45 Station 3,M,87356.0,0.0,1823.01,78201,Manager,Pacific Islander,4,9,Bachelor,455.7525,38033.74794008055
+825,HHS,Department of Health and Human Services,Office of Eligibility and Support Services,F,48261.4,0.0,0.0,85001,Assistant,White,4,1,Master,0.0,1242.3542771853845
+826,SHF,Sheriff's Office,Court and Transport,M,95922.0,6640.05,3906.58,90001,Manager,Other,2,5,High School,3300.6625,275654.7827694915
+827,ABS,Alcohol Beverage Services,ABS 85 Flower Avenue,M,18574.4,5.65,0.0,78201,Assistant,Asian,4,1,Ph.D,1.9775,132.20269621837912
+828,HHS,Department of Health and Human Services,Behavioral Health and Crisis Services Division,F,116825.0,19047.42,0.0,85001,Junior,Asian,4,10,Master,6666.596999999999,100590.41977180426
+829,CAT,County Attorney's Office,"Zoning, Land Use and Economic Development",M,169856.0,0.0,0.0,92101,Assistant,Other,5,7,Bachelor,0.0,-32.96794059444101
+830,DOT,Department of Transportation,Highway Services,M,66446.0,22860.76,4017.52,77001,Senior,Other,2,7,High School,9005.645999999999,752163.3833771432
+831,POL,Department of Police,PSB 3rd District Patrol,M,74752.0,11046.01,0.0,19102,Junior,Black,5,7,High School,3866.1035,322883.22780113644
+832,DOT,Department of Transportation,Transit Silver Spring Ride On,M,56097.49,16142.48,0.0,10001,Junior,Hispanic,4,2,Master,5649.868,471872.1119422752
+833,POL,Department of Police,PSB 6th District Patrol,M,82882.0,8293.38,0.0,90001,Manager,Pacific Islander,4,5,Bachelor,2902.6829999999995,242413.55523298183
+834,HHS,Department of Health and Human Services,Services to End and Prevent Homelessness Division,F,63815.18,0.0,0.0,77001,Assistant,Pacific Islander,4,8,Master,0.0,1242.3542771853845
+835,FRS,Fire and Rescue Services,Station 12,M,64091.0,43754.28,0.0,75201,Assistant,White,1,8,Bachelor,15313.997999999998,1279068.322481784
+836,DGS,Department of General Services,ADA Compliance,M,97677.48,0.0,0.0,77001,Senior,Asian,4,2,High School,0.0,-32.96794059444101
+837,DOT,Department of Transportation,Transit Silver Spring Ride On,M,54199.95,6621.66,0.0,19102,Assistant,Pacific Islander,5,8,Ph.D,2317.581,193542.92568028672
+838,FRS,Fire and Rescue Services,Station 25,F,55052.0,3937.08,0.0,78201,Assistant,Asian,2,7,Ph.D,1377.9779999999998,21777.48615843513
+839,DEP,Department of Environmental Protection,Office of Energy and Climate,F,110264.75,0.0,0.0,77001,Manager,Asian,3,4,Master,0.0,1242.3542771853845
+840,HHS,Department of Health and Human Services,Office of Eligibility and Support Services,F,87969.0,0.0,5318.56,19102,Assistant,White,3,5,Master,1329.64,21057.13561229009
+841,FRS,Fire and Rescue Services,Station 8,M,87356.0,24745.11,6176.43,95113,Assistant,Native American,4,9,High School,10204.896,852330.708888028
+842,FRS,Fire and Rescue Services,FRS 45 Station 13,M,86065.0,0.0,1250.34,60601,Assistant,Native American,1,4,Bachelor,312.585,26075.686172242666
+843,DOT,Department of Transportation,Highway Services,M,43805.97,9100.26,0.0,92101,Senior,Other,2,7,Bachelor,3185.091,266001.6761943143
+844,FRS,Fire and Rescue Services,Station 34,M,67677.0,0.0,0.0,85001,Manager,Other,4,5,Master,0.0,-32.96794059444101
+845,DOT,Department of Transportation,DOT 50 Transit Silver Spring Ride On,M,43439.99,1507.94,0.0,92101,Manager,Hispanic,2,2,Master,527.779,44049.75950640096
+846,HHS,Department of Health and Human Services,Behavioral Health and Crisis Services Division,F,77047.78,0.0,0.0,90001,Manager,Hispanic,3,2,Bachelor,0.0,1242.3542771853845
+847,DOT,Department of Transportation,Commuter Services,F,111407.0,0.0,0.0,90001,Junior,Native American,1,6,Ph.D,0.0,1242.3542771853845
+848,FRS,Fire and Rescue Services,Station 11,M,55052.0,7705.08,0.0,77001,Assistant,Native American,4,7,Bachelor,2696.778,225215.3453857284
+849,POL,Department of Police,PSB 1st District Patrol,M,95112.0,0.0,6724.51,92101,Senior,Native American,5,7,High School,1681.1275,140383.1634063306
+850,POL,Department of Police,POL 47 PSB 5th District Station,M,136375.48,0.0,0.0,60601,Junior,Hispanic,4,3,Bachelor,0.0,-32.96794059444101
+851,ABS,Alcohol Beverage Services,Special Order Liquor and Wine Warehouse Operations,M,41807.73,3611.91,0.0,78201,Manager,Other,2,9,Bachelor,1264.1684999999998,105556.67361880255
+852,DOT,Department of Transportation,Transit Nicholson Ride On,M,76419.0,15344.48,2276.56,85001,Assistant,White,5,9,High School,5939.708,496080.9905131109
+853,POL,Department of Police,MSB Communications Division,F,92211.0,17005.26,0.0,78201,Senior,Black,1,3,Master,5951.840999999999,89938.86457795172
+854,DGS,Department of General Services,ADA Compliance,M,101350.0,0.0,3019.12,75201,Assistant,Black,5,10,Master,754.78,63010.01221292282
+855,DOT,Department of Transportation,Transit Nicholson Ride On,F,69604.0,9379.53,4207.84,10001,Senior,White,1,8,Ph.D,4334.7955,65841.06141964192
+856,HHS,Department of Health and Human Services,Child Welfare Services,M,66188.25,0.0,0.0,75201,Junior,Hispanic,4,10,Bachelor,0.0,-32.96794059444101
+857,COR,Correction and Rehabilitation,DS Health Services,F,80851.76,19906.42,0.0,75201,Junior,Other,4,4,Bachelor,6967.246999999999,105070.81597558818
+858,DGS,Department of General Services,Facilities Maintenance,M,69604.0,4854.24,0.0,92101,Junior,White,5,4,Master,1698.984,141874.62711113368
+859,FRS,Fire and Rescue Services,Station 1,M,55052.0,10703.14,0.0,75201,Junior,Native American,1,8,Bachelor,3746.099,312859.8550145857
+860,HHS,Department of Health and Human Services,Aging & Disability Services Division,F,87969.0,0.0,2620.8,75201,Junior,White,4,7,High School,655.2,11006.3841881091
+861,BOA,Board of Appeals Department,Board of Appeals Division,F,80086.0,0.0,740.16,60601,Manager,Other,5,1,Ph.D,185.04,3999.887999281422
+862,POL,Department of Police,PSB 1st District Patrol,M,99865.0,5674.03,6996.33,78201,Senior,Native American,5,7,Master,3734.993,311932.2266492541
+863,POL,Department of Police,FSB Security Services Division,F,59082.44,141.06,0.0,77001,Junior,Black,2,3,Bachelor,49.371,1978.0989669476169
+864,POL,Department of Police,PSB 5th District Patrol,M,109849.0,17670.13,7766.33,10001,Manager,Black,4,3,High School,8126.128000000001,678701.6649709042
+865,COR,Correction and Rehabilitation,DS MCCF Unit 3 Security,M,57927.0,56153.39,0.0,95113,Assistant,Hispanic,4,2,Bachelor,19653.6865,1641540.6932096083
+866,DGS,Department of General Services,Facilities Maintenance,M,69604.0,4503.21,0.0,77001,Assistant,Pacific Islander,1,2,Master,1576.1235,131612.7069977878
+867,HHS,Department of Health and Human Services,Child Welfare Services,F,106250.0,0.0,6423.04,92101,Assistant,Other,5,2,Master,1605.76,25171.97678903652
+868,POL,Department of Police,ISB Criminal Investigations Division Forensic Services Section,F,106250.0,8090.11,0.0,19102,Senior,Native American,2,3,Ph.D,2831.5385,43438.97608416351
+869,COR,Correction and Rehabilitation,DS MCCF Unit 1 Security,M,48073.0,34.68,0.0,10001,Senior,Pacific Islander,4,3,Bachelor,12.138,980.8581982849576
+870,LIB,Department of Public Libraries,Olney Library,M,20407.48,0.0,0.0,77001,Junior,Native American,2,5,High School,0.0,-32.96794059444101
+871,ABS,Alcohol Beverage Services,ABS 85 Special Order Liquor and Wine Warehouse Operations,M,46402.53,538.9,0.0,60601,Assistant,Other,5,7,Ph.D,188.615,15721.095099835433
+872,CEC,Community Engagement Cluster,Wheaton Urban District,F,106250.0,1762.34,0.0,10001,Manager,White,4,10,High School,616.819,10434.416495784368
+873,POL,Department of Police,POL 47 PSB 4th District Patrol,F,55154.0,287.39,0.0,10001,Assistant,Native American,3,9,Ph.D,100.5865,2741.3310699740414
+874,POL,Department of Police,PSB 6th District Special Assignment Team,M,91894.0,10024.04,0.0,95113,Manager,Pacific Islander,3,3,High School,3508.414,293007.2214819156
+875,ABS,Alcohol Beverage Services,Liquor and WIne Loading,M,76419.0,17665.64,0.0,60601,Manager,White,2,1,High School,6182.973999999999,516399.776927729
+876,FIN,Department of Finance,Accounts Payable,M,72930.0,0.0,0.0,60601,Senior,Black,1,3,High School,0.0,-32.96794059444101
+877,HHS,Department of Health and Human Services,Public Health Services Division,F,165317.6,0.0,0.0,10001,Assistant,Other,5,4,High School,0.0,1242.3542771853845
+878,POL,Department of Police,ISB Criminal Investigations Division 4th District Investigative Section,M,99865.0,11433.1,1478.84,77001,Senior,Other,2,5,Bachelor,4371.295,365079.3348895935
+879,HHS,Department of Health and Human Services,Office of Eligibility and Support Services,F,96665.0,1092.92,5844.8,90001,Senior,White,1,1,Ph.D,1843.722,28718.173500976733
+880,FRS,Fire and Rescue Services,Station 4,M,96088.0,90090.04,0.0,92101,Senior,Other,2,1,Master,31531.514,2633635.930695236
+881,POL,Department of Police,PSB 3rd District Patrol,F,95112.0,2435.66,3304.47,60601,Assistant,Black,4,6,Master,1678.5984999999998,26257.4427424352
+882,OAS,Office of Animal Services,Animal Services Division,F,72930.0,0.0,420.8,95113,Assistant,Other,2,9,Master,105.2,2810.0831334570184
+883,DOT,Department of Transportation,Highway Services,M,53546.76,11739.37,0.0,78201,Manager,Asian,2,4,High School,4108.7795,343152.73448087747
+884,CCL,County Council,Council Members and Staff,F,126875.0,0.0,0.0,95113,Manager,Hispanic,1,10,Bachelor,0.0,1242.3542771853845
+885,HHS,Department of Health and Human Services,Office of Eligibility and Support Services,F,96665.0,0.0,4028.56,75201,Manager,Black,2,7,Master,1007.14,16251.122721153197
+886,ABS,Alcohol Beverage Services,Seneca Meadows,M,70796.41,0.0,0.0,95113,Manager,Black,5,1,Master,0.0,-32.96794059444101
+887,HHS,Department of Health and Human Services,HHS 60 Office of Eligibility and Support Services,F,146923.0,0.0,0.0,92101,Senior,Hispanic,5,3,Master,0.0,1242.3542771853845
+888,CCL,County Council,Council Central Staff,M,101350.0,0.0,0.0,92101,Assistant,Pacific Islander,2,8,Ph.D,0.0,-32.96794059444101
+889,FRS,Fire and Rescue Services,Station 7,M,61923.0,4807.01,0.0,19102,Assistant,Pacific Islander,3,9,High School,1682.4535,140493.91752234264
+890,POL,Department of Police,PSB 2nd District Patrol,M,80077.0,0.0,0.0,10001,Assistant,Pacific Islander,1,2,Master,0.0,-32.96794059444101
+891,CEC,Community Engagement Cluster,Wheaton Urban District,M,45362.75,927.2,0.0,90001,Senior,Asian,4,1,High School,324.52,27072.55674132535
+892,POL,Department of Police,FSB Special Operations Division Tactical Operations Section,M,109849.0,8656.82,7766.33,60601,Senior,Native American,3,4,High School,4971.469499999999,415208.894618451
+893,COR,Correction and Rehabilitation,MSD Fiscal Services,M,100701.95,1599.98,0.0,95113,Senior,Native American,5,5,High School,559.9929999999999,46740.43303069333
+894,SHF,Sheriff's Office,Civil Process,M,61398.0,248.78,0.0,92101,Senior,Black,1,10,Master,87.073,7239.802152554832
+895,FRS,Fire and Rescue Services,Station 11,M,96088.0,8088.65,0.0,95113,Manager,Other,3,1,Ph.D,2831.0275,236428.53143215203
+896,FIN,Department of Finance,General Accounting,F,116608.28,0.0,0.0,95113,Assistant,Black,3,10,Bachelor,0.0,1242.3542771853845
+897,POL,Department of Police,CRB Community Engagement Division Community Resource Section,M,77370.0,8173.67,0.0,19102,Assistant,Black,5,7,High School,2860.7845,238913.9840944221
+898,ABS,Alcohol Beverage Services,Wholesale Operations,M,90864.14,120.54,0.0,60601,Assistant,Asian,5,9,Ph.D,42.189,3490.867203019247
+899,POL,Department of Police,MSB Information Management and Technology Division Data Systems Section,M,141337.0,0.0,730.24,78201,Junior,Asian,2,5,High School,182.56,15215.351380036884
+900,FRS,Fire and Rescue Services,Station 30,M,87356.0,18791.84,0.0,92101,Assistant,Asian,3,1,Master,6577.143999999999,549322.8160743836
+901,PIO,Office of Public Information,MC311,M,111407.0,0.0,2213.12,90001,Senior,Other,5,6,Master,553.28,46179.72987776061
+902,FRS,Fire and Rescue Services,Station 40,M,111271.0,32682.8,0.0,78201,Senior,Native American,2,8,Ph.D,11438.98,955407.5433560496
+903,LIB,Department of Public Libraries,Olney Library,F,23987.73,396.39,0.0,85001,Senior,White,1,3,Ph.D,138.73649999999998,3309.856315855817
+904,DOT,Department of Transportation,Transit Silver Spring Ride On,M,54200.48,5756.84,0.0,90001,Senior,Hispanic,3,8,Bachelor,2014.894,168261.00176374457
+905,OHR,Office of Human Resources,Training and Organizational Development Team,F,140186.18,0.0,0.0,95113,Senior,Other,4,4,Bachelor,0.0,1242.3542771853845
+906,PIO,Office of Public Information,MC311,F,69473.73,0.0,0.0,19102,Senior,Asian,3,6,High School,0.0,1242.3542771853845
+907,FRS,Fire and Rescue Services,Station 11,M,67677.0,1065.93,0.0,92101,Assistant,Other,5,3,Master,373.0755,31128.15363425323
+908,HHS,Department of Health and Human Services,Child Welfare Services,F,92681.17,0.0,0.0,90001,Senior,White,5,9,Bachelor,0.0,1242.3542771853845
+909,POL,Department of Police,FSB Traffic Division School Safety Section,F,27611.5,0.0,665.6,60601,Manager,White,3,4,Master,166.4,3722.1079053564863
+910,DGS,Department of General Services,Building Design and Construction,M,146923.0,0.0,0.0,90001,Senior,White,4,1,Ph.D,0.0,-32.96794059444101
+911,REC,Department of Recreation,Facilities Division,M,33996.2,0.0,0.0,90001,Manager,Other,1,1,Master,0.0,-32.96794059444101
+912,DGS,Department of General Services,Facilities Maintenance,F,47576.4,463.21,0.0,92101,Senior,Hispanic,2,6,Bachelor,162.12349999999998,3658.377939065177
+913,POL,Department of Police,POL 47 MSB Management and Budget Division,M,169856.0,0.0,0.0,77001,Junior,Hispanic,3,5,High School,0.0,-32.96794059444101
+914,HHS,Department of Health and Human Services,Children Youth and Family Services Division,F,149206.42,0.0,0.0,90001,Manager,Native American,2,6,High School,0.0,1242.3542771853845
+915,POL,Department of Police,ISB Criminal Investigations Division 6th District Investigative Section,F,99865.0,9156.56,5139.25,85001,Assistant,Asian,2,10,Bachelor,4489.6085,68148.14133813983
+916,HHS,Department of Health and Human Services,School Health Services,F,44271.73,768.35,0.0,19102,Junior,Black,5,7,Bachelor,268.9225,5249.935677857519
+917,POL,Department of Police,MSB Training and Education Division,M,17415.5,0.0,0.0,78201,Assistant,Other,1,3,High School,0.0,-32.96794059444101
+918,TBS,Department of Technology and Enterprise Business Solutions,OBP Voice Services,M,80086.0,9351.17,0.0,60601,Junior,Native American,3,6,Ph.D,3272.9095,273336.714155855
+919,DOT,Department of Transportation,Transportation System Engineering,F,96665.0,2154.09,2879.76,75201,Assistant,Pacific Islander,2,5,Ph.D,1473.8715000000002,23206.52614967928
+920,LIB,Department of Public Libraries,Bethesda Library,F,24837.43,0.0,0.0,10001,Junior,Hispanic,5,5,Bachelor,0.0,1242.3542771853845
+921,POL,Department of Police,Patrol Services Bureau,M,109849.0,2715.54,2650.89,90001,Assistant,Other,3,10,High School,1613.1615,134706.30499843167
+922,SHF,Sheriff's Office,Court and Transport,M,105514.0,51.05,0.0,10001,Manager,Black,4,8,Ph.D,17.867499999999996,1459.4145389267037
+923,SHF,Sheriff's Office,Court and Transport,M,116075.0,3209.03,5419.68,95113,Senior,Hispanic,3,10,Bachelor,2478.0805,206948.6423038717
+924,FRS,Fire and Rescue Services,Self Contained Breathing Apparatus (SCBA) Shop,M,111407.0,0.0,0.0,92101,Junior,Hispanic,1,10,Ph.D,0.0,-32.96794059444101
+925,POL,Department of Police,PSB 6th District Patrol,M,99865.0,3369.37,3469.57,19102,Manager,Black,4,7,Ph.D,2046.672,170915.25839921247
+926,COR,Correction and Rehabilitation,DS MCDC Central Processing Unit,M,109262.0,47068.2,3797.04,19102,Junior,Hispanic,1,4,Bachelor,17423.129999999997,1455233.5187206194
+927,FRS,Fire and Rescue Services,Third Battalion - Administration,M,105707.0,30883.48,0.0,75201,Assistant,Pacific Islander,5,2,Master,10809.218,902806.6884480772
+928,FRS,Fire and Rescue Services,Station 18,M,96088.0,23728.82,0.0,78201,Assistant,Other,4,1,Bachelor,8305.087,693649.2108588361
+929,FRS,Fire and Rescue Services,Station 14,M,96088.0,28136.05,6794.32,77001,Junior,Pacific Islander,2,6,Master,11546.197499999998,964362.8822953558
+930,LIB,Department of Public Libraries,Davis Library,F,20904.13,0.0,0.0,75201,Assistant,Asian,4,9,Master,0.0,1242.3542771853845
+931,COR,Correction and Rehabilitation,DS MCCF Unit 1 Security,M,48073.0,346.8,0.0,60601,Junior,White,5,7,High School,121.38,10105.293448199543
+932,HHS,Department of Health and Human Services,Office of Eligibility and Support Services,M,59870.72,0.0,0.0,78201,Assistant,Native American,5,8,Master,0.0,-32.96794059444101
+933,POL,Department of Police,PSB 3rd District Patrol,M,99865.0,19.01,7060.43,92101,Assistant,Asian,4,8,High School,1771.761,147953.3241707173
+934,FRS,Fire and Rescue Services,Station 15,M,105707.0,50668.7,0.0,10001,Assistant,Hispanic,5,8,Bachelor,17734.045,1481202.686126262
+935,HHS,Department of Health and Human Services,School Health Services,F,106250.0,0.0,0.0,92101,Senior,Native American,1,4,Bachelor,0.0,1242.3542771853845
+936,FRS,Fire and Rescue Services,Station 25,M,64091.0,15475.98,0.0,60601,Senior,Pacific Islander,4,5,High School,5416.593,452387.8235465681
+937,HHS,Department of Health and Human Services,Public Health Services Division,F,84822.04,0.0,0.0,78201,Junior,Hispanic,5,9,Bachelor,0.0,1242.3542771853845
+938,DGS,Department of General Services,Fleet Management Fleet Services,M,83931.0,0.0,0.0,19102,Senior,Pacific Islander,4,7,Master,0.0,-32.96794059444101
+939,DGS,Department of General Services,Facilities Maintenance,F,50426.0,3266.48,1502.8,19102,Manager,Hispanic,5,5,Bachelor,1518.968,23878.57067788131
+940,POL,Department of Police,POL 47 PSB 2nd District Patrol,M,95112.0,1098.89,5812.55,77001,Assistant,White,1,2,Bachelor,1837.749,153464.97017931624
+941,HHS,Department of Health and Human Services,School Health Services,F,37275.88,199.7,0.0,92101,Senior,Asian,3,5,High School,69.895,2283.9551175761244
+942,DOT,Department of Transportation,Transit Silver Spring Ride On,M,44091.59,2047.5,0.0,90001,Junior,White,2,8,Bachelor,716.625,59823.116815909845
+943,ABS,Alcohol Beverage Services,Beer Delivery Operations,M,45634.8,3481.04,0.0,60601,Manager,Native American,5,10,Master,1218.3639999999998,101730.85393036118
+944,POL,Department of Police,MSB Communications Division,F,66532.4,6146.76,0.0,95113,Senior,Black,2,6,Bachelor,2151.366,33302.796849444705
+945,COR,Correction and Rehabilitation,DS MCDC Central Processing Unit,M,89587.0,85764.84,0.0,90001,Junior,Asian,2,10,High School,30017.694,2507194.153997393
+946,FRS,Fire and Rescue Services,Station 7,M,71062.0,48806.34,0.0,92101,Junior,Asian,5,6,High School,17082.218999999997,1426758.9361838328
+947,POL,Department of Police,MSB Information Management and Technology Division Data Systems Section,M,46947.29,158.42,0.0,10001,Senior,Hispanic,3,4,Ph.D,55.447,4598.241313190863
+948,ABS,Alcohol Beverage Services,King Farm,M,80086.0,0.0,0.0,95113,Manager,Black,4,6,Bachelor,0.0,-32.96794059444101
+949,POL,Department of Police,FSB Traffic Division School Safety Section,F,27611.5,60.62,416.15,78201,Manager,Hispanic,3,7,Master,125.2545,3108.942623457964
+950,LIB,Department of Public Libraries,Little Falls Library,F,22655.43,0.0,0.0,77001,Assistant,Hispanic,1,1,Ph.D,0.0,1242.3542771853845
+951,REC,Department of Recreation,Countywide Programs,M,92211.0,0.0,1907.6,85001,Manager,Pacific Islander,4,9,High School,476.9,39800.092335528905
+952,COR,Correction and Rehabilitation,DS MCCF Unit 2 Security,F,86850.0,7450.52,0.0,92101,Assistant,Pacific Islander,5,1,Bachelor,2607.682,40102.984689544006
+953,DGS,Department of General Services,Real Estate Office,F,111407.0,0.0,0.0,90001,Senior,Pacific Islander,3,9,Bachelor,0.0,1242.3542771853845
+954,DOT,Department of Transportation,Transit Nicholson Ride On,M,42601.0,0.0,0.0,19102,Manager,Pacific Islander,5,8,High School,0.0,-32.96794059444101
+955,HHS,Department of Health and Human Services,School Health Services,F,45821.71,146.53,0.0,77001,Junior,Other,3,4,Bachelor,51.2855,2006.629545800583
+956,DOT,Department of Transportation,Parking Management Parking Operations,M,111407.0,0.0,2213.12,90001,Manager,Other,2,1,High School,553.28,46179.72987776061
+957,HHS,Department of Health and Human Services,Office of Eligibility and Support Services,F,79429.76,684.88,0.0,92101,Assistant,Asian,4,8,High School,239.708,4814.570519382731
+958,POL,Department of Police,PSB 1st District Patrol,M,64209.0,185.23,0.0,10001,Manager,Native American,5,9,Ph.D,64.83049999999999,5381.997910173465
+959,COR,Correction and Rehabilitation,DS MCCF Unit 2 Security,M,68261.0,10827.28,0.0,77001,Junior,Native American,4,10,Master,3789.548,316488.9316259031
+960,COR,Correction and Rehabilitation,MSD Fiscal Services,F,72930.0,0.0,2172.56,78201,Junior,Asian,1,7,Ph.D,543.14,9336.42510413762
+961,HHS,Department of Health and Human Services,School Health Services,M,89568.18,0.0,0.0,75201,Senior,Black,2,5,Bachelor,0.0,-32.96794059444101
+962,COR,Correction and Rehabilitation,DS MCCF Unit 3 Security,M,65951.0,8235.34,0.0,75201,Assistant,Other,5,5,Ph.D,2882.369,240716.8289036693
+963,FRS,Fire and Rescue Services,Station 34,M,78788.0,235.63,0.0,10001,Senior,White,2,4,High School,82.47049999999999,6855.378458025878
+964,OIG,Office of the Inspector General,Inspector General Staff,M,75000.0,0.0,0.0,90001,Senior,Hispanic,5,6,Master,0.0,-32.96794059444101
+965,HHS,Department of Health and Human Services,Services to End and Prevent Homelessness Division,F,116825.0,0.0,2320.24,95113,Manager,Other,2,3,High School,580.06,9886.620440388084
+966,CCL,County Council,CCL 01 Council Members and Staff,F,55825.0,0.0,0.0,85001,Senior,Hispanic,3,4,Master,0.0,1242.3542771853845
+967,POL,Department of Police,CRB Community Engagement Division Community Resource Section,F,95112.0,2427.8,6724.51,90001,Assistant,Asian,2,7,Master,2530.8575,38958.11790704743
+968,DPS,Department of Permitting Services,Land Development Sediment and Stormwater Inspection,M,101350.0,0.0,0.0,78201,Assistant,Native American,5,10,Bachelor,0.0,-32.96794059444101
+969,DOT,Department of Transportation,Transit Gaithersburg Ride On,M,109750.92,366.8,0.0,92101,Manager,Asian,5,6,Bachelor,128.38,10689.9682687759
+970,REC,Department of Recreation,Aquatic Team Management,M,75411.98,0.0,0.0,92101,Junior,Native American,3,4,Master,0.0,-32.96794059444101
+971,POL,Department of Police,PSB 5th District Patrol,M,91894.0,2841.65,0.0,77001,Senior,White,1,5,Bachelor,994.5775,83039.09225394543
+972,FRS,Fire and Rescue Services,Station 35,M,61040.0,28805.28,0.0,90001,Assistant,White,4,6,High School,10081.847999999998,842053.127841988
+973,DOT,Department of Transportation,Transit Nicholson Ride On,F,69604.0,2861.84,0.0,90001,Manager,Black,2,1,Ph.D,1001.644,16169.21932006889
+974,HCA,Department of Housing and Community Affairs,Common Ownership Community Program,F,57811.38,0.0,0.0,60601,Senior,Other,3,7,High School,0.0,1242.3542771853845
+975,POL,Department of Police,PSB 6th District Patrol,M,77370.0,590.98,0.0,77001,Assistant,Black,5,1,Master,206.843,17243.588332616255
+976,DGS,Department of General Services,Facilities Maintenance,M,76398.18,1736.79,0.0,78201,Senior,Other,1,9,High School,607.8765,50739.90114084589
+977,FRS,Fire and Rescue Services,Duty Operations Chief's Office,M,150943.0,0.0,10774.32,92101,Junior,Black,4,7,High School,2693.58,224948.2325176994
+978,OMB,Office of Management and Budget,Special Projects,F,122547.7,0.0,0.0,78201,Manager,Hispanic,5,5,Master,0.0,1242.3542771853845
+979,FRS,Fire and Rescue Services,Procurement,M,125583.6,0.0,0.0,78201,Junior,Native American,4,1,Master,0.0,-32.96794059444101
+980,TBS,Department of Technology and Enterprise Business Solutions,OBP Public Safety Data Systems,F,128483.0,186.23,1772.64,78201,Manager,Other,2,9,Ph.D,508.3405,8817.830234044231
+981,DOT,Department of Transportation,Transit Silver Spring Ride On,M,69604.0,8949.24,0.0,77001,Manager,Asian,3,9,High School,3132.234,261586.79662414227
+982,HHS,Department of Health and Human Services,Behavioral Health and Crisis Services Division,M,113656.0,0.0,0.0,90001,Junior,Pacific Islander,1,10,Master,0.0,-32.96794059444101
+983,HHS,Department of Health and Human Services,Chief Operating Officer Division,M,169856.0,0.0,0.0,90001,Senior,Other,2,8,Master,0.0,-32.96794059444101
+984,DOT,Department of Transportation,Highway Services,M,106171.98,42937.68,0.0,19102,Assistant,Native American,5,7,Master,15028.187999999998,1255196.0495576514
+985,FRS,Fire and Rescue Services,Rescue 1,M,96088.0,3207.64,0.0,77001,Assistant,Asian,4,4,Ph.D,1122.674,93738.34913308245
+986,DOT,Department of Transportation,Transit Nicholson Ride On,M,48884.86,10431.59,0.0,85001,Manager,White,3,10,High School,3651.0565,304921.43263821024
+987,POL,Department of Police,MSB Communications Division,M,111407.0,99.73,6735.04,85001,Senior,Hispanic,1,8,Master,1718.6655,143518.52389415848
+988,DOT,Department of Transportation,Transportation Management,M,111898.39,0.0,0.0,77001,Junior,Native American,4,9,High School,0.0,-32.96794059444101
+989,PIO,Office of Public Information,Information,M,168349.65,0.0,0.0,85001,Manager,Native American,2,10,Master,0.0,-32.96794059444101
+990,COR,Correction and Rehabilitation,COR 42 DS MCCF Unit 2 Security,M,82673.0,1729.01,0.0,90001,Senior,Native American,5,5,Ph.D,605.1535,50512.46263564169
+991,DEP,Department of Environmental Protection,Communications and Public Engagement,F,116825.0,0.0,0.0,19102,Senior,Native American,2,5,Bachelor,0.0,1242.3542771853845
+992,POL,Department of Police,MSB Communications Division,M,91862.16,8862.98,0.0,60601,Senior,Black,2,8,Ph.D,3102.043,259065.09412299647
+993,LIB,Department of Public Libraries,Public Service Administration,F,92211.0,0.0,2746.64,78201,Junior,Other,3,10,Bachelor,686.66,11475.212608435197
+994,FRS,Fire and Rescue Services,Station 18,M,71062.0,37683.8,0.0,95113,Senior,Native American,5,4,High School,13189.33,1101605.4822411668
+995,LIB,Department of Public Libraries,Wheaton Library,F,63425.0,0.0,3835.52,90001,Junior,Black,4,6,Bachelor,958.88,15531.93455952136
+996,ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,56097.49,0.0,0.0,85001,Manager,Native American,1,9,Master,0.0,-32.96794059444101
+997,POL,Department of Police,MSB Personnel Division Administration,F,101350.0,0.0,0.0,90001,Junior,White,2,8,High School,0.0,1242.3542771853845
+998,HHS,Department of Health and Human Services,School Health Services,F,106250.0,0.0,0.0,92101,Assistant,Native American,2,10,Bachelor,0.0,1242.3542771853845
+999,POL,Department of Police,PSB 6th District Patrol,M,77370.0,3755.34,0.0,85001,Manager,White,1,6,Master,1314.369,109749.66909456588
+1000,HHS,Department of Health and Human Services,School Health Services,F,60903.5,2408.05,3877.15,75201,Assistant,Other,4,4,High School,1812.105,28247.00540925867
